@@ -1,0 +1,1311 @@
+ID,Parameter_ID,Value,Segments,SegmentStructure,ConVoStructure
+lit-1_eye-1,1_eye,akis,ɐ kʲ ɪ s,V T V S,V C V C
+lit-2_ear-1,2_ear,ausis,ɒʊˑ sʲ ɪ s,V S V S,V C V C
+lit-3_nose-1,3_nose,nosis,n oː sʲ ɪ s,R V S V S,C V C V C
+lit-4_mouth-1,4_mouth,burna,b ʊ r n ɑ,T V R R V,C V C C V
+lit-5_tooth-1,5_tooth,dantis,d ɐ n tʲ ɪ s,T V R T V S,C V C C V C
+lit-6_tongue-1,6_tongue,liežuvis,lˠ i ə ʒ ʊ ʋʲ ɪ s,R V V S V R V S,C V V C V C V C
+lit-7_lip-1,7_lip,lūpa,lˠ uː p ɐ,R V T V,C V C V
+lit-8_cheek-1,8_cheek,žandas,ʒ aˑ n d ɐ s,S V R T V S,C V C C V C
+lit-8_cheek-2,8_cheek,skruostas,s k r u ə s t ɐ s,S T R V V S T V S,C C C V V C C V C
+lit-9_face-1,9_face,veidas,ʋ æˑ j ɪ d ɐ s,R V R V T V S,C V C V C V C
+lit-10_forehead-1,10_forehead,kakta,k ɐ k t ɑ,T V T T V,C V C C V
+lit-11_hair-1,11_hair,plaukai,p lˠ ɒʊˑ k ɐɪˑ,T R V T V,C C V C V
+lit-12_moustache-1,12_moustache,ūsai,uː s ɐɪˑ,V S V,V C V
+lit-13_beard-1,13_beard,barzda,b ɐ r z d ɑ,T V R S T V,C V C C C V
+lit-14_chin-1,14_chin,smakras,s m a k r ɐ s,S R V T R V S,C C V C C V C
+lit-15_jaw-1,15_jaw,žandikaulis,ʒ ɐ n dʲ ɪ k ɒʊˑ lʲ ɪ s,S V R T V T V R V S,C V C C V C V C V C
+lit-16_throat-1,16_throat,gerklė,g ɛ r k lˠ eː,T V R T R V,C V C C C V
+lit-17_neck-1,17_neck,kaklas,k a k lˠ ɐ s,T V T R V S,C V C C V C
+lit-18_nape-1,18_nape,sprandas,s p r aˑ n d ɐ s,S T R V R T V S,C C C V C C V C
+lit-19_head-1,19_head,galva,g ɐ lˠ ʋ ɑ,T V R R V,C V C C V
+lit-20_back-1,20_back,nugara,n ʊ g ɐ r ɐ,R V T V R V,C V C V C V
+lit-21_belly-1,21_belly,pilvas,pʲ ɪ lˠˑ ʋ ɐ s,T V R R V S,C V C C V C
+lit-22_navel-1,22_navel,bamba,b aˑ m b ɐ,T V R T V,C V C C V
+lit-23_bosom-1,23_bosom,krūtinė,k r uː tʲ ɪ n eː,T R V T V R V,C C V C V C V
+lit-24_breast-1,24_breast,krūtis,k r uː tʲ ɪ s,T R V T V S,C C V C V C
+lit-25_shoulder-1,25_shoulder,petys,p ɛ t iː s,T V T V S,C V C V C
+lit-26_arm-1,26_arm,ranka,r ɐ n k ɑ,R V R T V,C V C C V
+lit-27_elbow-1,27_elbow,alkūnė,ɐ lˠ k uː n eː,V R T V R V,V C C V C V
+lit-28_hand-1,28_hand,ranka,r ɐ n k ɑ,R V R T V,C V C C V
+lit-28_hand-2,28_hand,plaštaka,p lˠ a ʃ t ɐ k ɐ,T R V S T V T V,C C V C C V C V
+lit-29_palm-1,29_palm,delnas,d eˑ lˠ n ɐ s,T V R R V S,C V C C V C
+lit-29_palm-2,29_palm,plaštaka,p lˠ a ʃ t ɐ k ɐ,T R V S T V T V,C C V C C V C V
+lit-30_finger-1,30_finger,pirštas,pʲ ɪ rˑ ʃ t ɐ s,T V R S T V S,C V C C C V C
+lit-31_fingernail-1,31_fingernail,nagas,n a g ɐ s,R V T V S,C V C V C
+lit-32_nail-1,32_nail,nagas,n a g ɐ s,R V T V S,C V C V C
+lit-33_toe-1,33_toe,pirštas,pʲ ɪ rˑ ʃ t ɐ s,T V R S T V S,C V C C C V C
+lit-34_foot-1,34_foot,pėda,p eː d ɑ,T V T V,C V C V
+lit-35_heel-1,35_heel,kulnas,k ʊ lˠˑ n ɐ s,T V R R V S,C V C C V C
+lit-36_knee-1,36_knee,kelis,k ɛ lʲ ɪ s,T V R V S,C V C V C
+lit-37_thigh-1,37_thigh,kulšis,k ʊ lˠ ʃʲ ɪ s,T V R S V S,C V C C V C
+lit-37_thigh-2,37_thigh,šlaunis,ʃ lˠ ɒʊˑ nʲ ɪ s,S R V R V S,C C V C V C
+lit-38_leg-1,38_leg,koja,k oː j ɐ,T V R V,C V C V
+lit-39_body-1,39_body,kūnas,k uː n ɐ s,T V R V S,C V C V C
+lit-40_skin-1,40_skin,oda,oː d ɐ,V T V,V C V
+lit-41_blood-1,41_blood,kraujas,k r ɒʊˑ j ɐ s,T R V R V S,C C V C V C
+lit-42_vein-1,42_vein,kraujagyslė,k r ɒʊˑ j a gʲ iː s lˠ eː,T R V R V T V S R V,C C V C V C V C C V
+lit-43_sinew-1,43_sinew,sausgyslė,s ɒʊˑ s gʲ iː s lˠ eː,S V S T V S R V,C V C C V C C V
+lit-44_bone-1,44_bone,kaulas,k aˑ ʊ lˠ ɐ s,T V V R V S,C V V C V C
+lit-45_brain-1,45_brain,smegenys,s m ɛ g ɛ nʲ iː s,S R V T V R V S,C C V C V C V C
+lit-46_heart-1,46_heart,širdis,ʃʲ ɪ r dʲ ɪ s,S V R T V S,C V C C V C
+lit-47_stomach-1,47_stomach,skrandis,s k r ɐ nˑ dʲ ɪ s,S T R V R T V S,C C C V C C V C
+lit-48_liver-1,48_liver,kepenys,k ɛ p ɛ nʲ iː s,T V T V R V S,C V C V C V C
+lit-49_breath-1,49_breath,kvapas,k ʋ a p ɐ s,T R V T V S,C C V C V C
+lit-50_hunger-1,50_hunger,badas,b a d ɐ s,T V T V S,C V C V C
+lit-50_hunger-2,50_hunger,alkis,ɐ lˠˑ kʲ ɪ s,V R T V S,V C C V C
+lit-51_tear-1,51_tear,ašara,a ʃ ɐ r ɐ,V S V R V,V C V C V
+lit-52_flavour-1,52_flavour,skonis,s k oː nʲ ɪ s,S T V R V S,C C V C V C
+lit-53_odour-1,53_odour,kvapas,k ʋ a p ɐ s,T R V T V S,C C V C V C
+lit-54_sleep-1,54_sleep,miegas,m i ə g ɐ s,R V V T V S,C V V C V C
+lit-55_dream-1,55_dream,sapnas,s a p n ɐ s,S V T R V S,C V C C V C
+lit-56_sky-1,56_sky,dangus,d ɐ n g ʊ s,T V R T V S,C V C C V C
+lit-57_sun-1,57_sun,saulė,s aˑ ʊ lˠ eː,S V V R V,C V V C V
+lit-58_moon-1,58_moon,mėnulis,m eː n ʊ lʲ ɪ s,R V R V R V S,C V C V C V C
+lit-59_star-1,59_star,žvaigždė,ʒ ʋ ɐɪˑ g ʒ d eː,S R V T S T V,C C V C C C V
+lit-60_air-1,60_air,oras,oː r ɐ s,V R V S,V C V C
+lit-61_wind-1,61_wind,vėjas,ʋ eː j ɐ s,R V R V S,C V C V C
+lit-62_wave-1,62_wave,banga,b ɐ n g ɑ,T V R T V,C V C C V
+lit-62_wave-2,62_wave,vilnis,ʋʲ ɪ lˠ nʲ ɪ s,R V R R V S,C V C C V C
+lit-63_water-1,63_water,vanduo,ʋ ɐ n d uə,R V R T V,C V C C V
+lit-64_stone-1,64_stone,akmuo,ɐ k m uə,V T R V,V C C V
+lit-65_ground-1,65_ground,žemė,ʒ ɛ m eː,S V R V,C V C V
+lit-65_ground-2,65_ground,dugnas,d ʊ g n ɐ s,T V T R V S,C V C C V C
+lit-66_earth-1,66_earth,žemė,ʒ ɛ m eː,S V R V,C V C V
+lit-67_dust-1,67_dust,dulkės,d ʊ lˠ k eː s,T V R T V S,C V C C V C
+lit-68_smoke-1,68_smoke,dūmai,d uː m ɐɪˑ,T V R V,C V C V
+lit-69_spark-1,69_spark,kibirkštis,kʲ ɪ bʲ ɪ r k ʃ tʲ ɪ s,T V T V R T S T V S,C V C V C C C C V C
+lit-70_fire-1,70_fire,ugnis,ʊ g nʲ ɪ s,V T R V S,V C C V C
+lit-71_light-1,71_light,šviesa,ʃ ʋ i ə s ɑ,S R V V S V,C C V V C V
+lit-72_shadow-1,72_shadow,paūksmė,p ɐ uː k s m eː,T V V T S R V,C V V C C C V
+lit-73_weather-1,73_weather,oras,oː r ɐ s,V R V S,V C V C
+lit-74_fog-1,74_fog,migla,mʲ ɪ g lˠ ɑ,R V T R V,C V C C V
+lit-74_fog-2,74_fog,rūkas,r uː k ɐ s,R V T V S,C V C V C
+lit-75_cloud-1,75_cloud,debesis,d ɛ b ɛ sʲ ɪ s,T V T V S V S,C V C V C V C
+lit-76_rain-1,76_rain,lietus,lˠ i ə t ʊ s,R V V T V S,C V V C V C
+lit-77_snow-1,77_snow,sniegas,s n i ə g ɐ s,S R V V T V S,C C V V C V C
+lit-78_ice-1,78_ice,ledas,lˠ ɛ d ɐ s,R V T V S,C V C V C
+lit-79_frost-1,79_frost,šalna,ʃ ɐ lˠ n ɑ,S V R R V,C V C C V
+lit-80_chill-1,80_chill,šaltis,ʃ ɐ lˠˑ tʲ ɪ s,S V R T V S,C V C C V C
+lit-81_heat-1,81_heat,karštis,k ɐ rˑ ʃ tʲ ɪ s,T V R S T V S,C V C C C V C
+lit-82_hoarfrost-1,82_hoarfrost,šerkšnas,ʃ ɛ rˑ k ʃ n ɐ s,S V R T S R V S,C V C C C C V C
+lit-83_rainbow-1,83_rainbow,vaivorykštė,ʋ ɐɪˑ ʋ oː rʲ iː k ʃ t eː,R V R V R V T S T V,C V C V C V C C C V
+lit-84_thunder-1,84_thunder,perkūnas,p ɛ r k uː n ɐ s,T V R T V R V S,C V C C V C V C
+lit-84_thunder-2,84_thunder,griaustinis,g rʲ ɛʊˑ s tʲ ɪ nʲ ɪ s,T R V S T V R V S,C C V C C V C V C
+lit-85_current-1,85_current,tėkmė,t eː k m eː,T V T R V,C V C C V
+lit-86_drop-1,86_drop,lašas,lˠ a ʃ ɐ s,R V S V S,C V C V C
+lit-87_foam-1,87_foam,putos,p ʊ t o s,T V T V S,C V C V C
+lit-88_dirt-1,88_dirt,purvas,p ʊ rˑ ʋ ɐ s,T V R R V S,C V C C V C
+lit-89_lake-1,89_lake,ežeras,ɛ ʒ ɛ r ɐ s,V S V R V S,V C V C V C
+lit-90_swamp-1,90_swamp,klampynė,k lˠ ɐ m p iː n eː,T R V R T V R V,C C V C C V C V
+lit-90_swamp-2,90_swamp,liūnas,lʲ ɪ uː n ɐ s,R V V R V S,C V V C V C
+lit-91_moor-1,91_moor,pelkė,p eˑ lˠ k eː,T V R T V,C V C C V
+lit-92_meadow-1,92_meadow,pieva,p i ə ʋ ɐ,T V V R V,C V V C V
+lit-93_forest-1,93_forest,miškas,mʲ ɪ ʃ k ɐ s,R V S T V S,C V C C V C
+lit-94_hill-1,94_hill,kalva,k ɐ lˠ ʋ ɑ,T V R R V,C V C C V
+lit-95_elevation-1,95_elevation,kauburys,k ɒʊˑ b ʊ r iː s,T V T V R V S,C V C V C V C
+lit-96_mountain-1,96_mountain,kalnas,k aˑ lˠ n ɐ s,T V R R V S,C V C C V C
+lit-97_summit-1,97_summit,viršūnė,ʋʲ ɪ r ʃ uː n eː,R V R S V R V,C V C C V C V
+lit-98_cave-1,98_cave,ola,o lˠ ɑ,V R V,V C V
+lit-99_slope-1,99_slope,šlaitas,ʃ lˠ ɐɪˑ t ɐ s,S R V T V S,C C V C V C
+lit-99_slope-2,99_slope,nuokalnė,n u ə k ɐ lˠ n eː,R V V T V R R V,C V V C V C C V
+lit-100_source-1,100_source,versmė,ʋ ɛ r s m eː,R V R S R V,C V C C C V
+lit-100_source-2,100_source,šaltinis,ʃ ɐ lˠ tʲ ɪ nʲ ɪ s,S V R T V R V S,C V C C V C V C
+lit-101_brook-1,101_brook,upelis,ʊ p ɛ lʲ ɪ s,V T V R V S,V C V C V C
+lit-102_river-1,102_river,upė,ʊ p eː,V T V,V C V
+lit-103_shore-1,103_shore,krantas,k r ɐ nˑ t ɐ s,T R V R T V S,C C V C C V C
+lit-104_coast-1,104_coast,pajūris,p ɐ j uː rʲ ɪ s,T V R V R V S,C V C V C V C
+lit-105_land-1,105_land,sausuma,s ɒʊˑ s ʊ m ɑ,S V S V R V,C V C V C V
+lit-106_sea-1,106_sea,jūra,j uː r ɐ,R V R V,C V C V
+lit-107_covebay-1,107_covebay,įlanka,j iː lˠ ɐ n k ɐ,R V R V R T V,C V C V C C V
+lit-107_covebay-2,107_covebay,užutekis,ʊ ʒ ʊ t ɛ kʲ ɪ s,V S V T V T V S,V C V C V C V C
+lit-108_island-1,108_island,sala,s ɐ lˠ ɑ,S V R V,C V C V
+lit-109_flower-1,109_flower,gėlė,g eː lˠ eː,T V R V,C V C V
+lit-110_grass-1,110_grass,žolė,ʒ o lˠ eː,S V R V,C V C V
+lit-111_root-1,111_root,šaknis,ʃ ɐ k nʲ ɪ s,S V T R V S,C V C C V C
+lit-112_tree-1,112_tree,medis,m ɛ dʲ ɪ s,R V T V S,C V C V C
+lit-113_trunk-1,113_trunk,kamienas,k ɐ m i ə n ɐ s,T V R V V R V S,C V C V V C V C
+lit-114_bark-1,114_bark,žievė,ʒ i ə ʋ eː,S V V R V,C V V C V
+lit-115_limb-1,115_limb,šaka,ʃ ɐ k ɑ,S V T V,C V C V
+lit-116_twig-1,116_twig,šakelė,ʃ ɐ k ɛ lˠ eː,S V T V R V,C V C V C V
+lit-117_leaf-1,117_leaf,lapas,lˠ a p ɐ s,R V T V S,C V C V C
+lit-118_birch-1,118_birch,beržas,b eˑ r ʒ ɐ s,T V R S V S,C V C C V C
+lit-119_pine-1,119_pine,pušis,p ʊ ʃʲ ɪ s,T V S V S,C V C V C
+lit-120_willow-1,120_willow,karklas,k ɐ rˑ k lˠ ɐ s,T V R T R V S,C V C C C V C
+lit-121_fir-1,121_fir,eglė,ɛ g lˠ eː,V T R V,V C C V
+lit-121_fir-2,121_fir,kėnis,k eː nʲ ɪ s,T V R V S,C V C V C
+lit-122_horn-1,122_horn,ragas,r a g ɐ s,R V T V S,C V C V C
+lit-123_feather-1,123_feather,plunksna,p lˠ ʊ n k s n ɐ,T R V R T S R V,C C V C C C C V
+lit-124_fur-1,124_fur,kailis,k aˑ j ɪ lʲ ɪ s,T V R V R V S,C V C V C V C
+lit-125_wing-1,125_wing,sparnas,s p ɐ rˑ n ɐ s,S T V R R V S,C C V C C V C
+lit-126_claw-1,126_claw,kanopa,k ɐ n oː p ɐ,T V R V T V,C V C V C V
+lit-127_paw-1,127_paw,nagas,n a g ɐ s,R V T V S,C V C V C
+lit-128_tail-1,128_tail,uodega,uə d ɛ g ɑ,V T V T V,V C V C V
+lit-129_egg-1,129_egg,kiaušinis,kʲ ɛʊˑ ʃʲ ɪ nʲ ɪ s,T V S V R V S,C V C V C V C
+lit-130_nest-1,130_nest,gūžta,g uː ʒ t ɑ,T V S T V,C V C C V
+lit-130_nest-2,130_nest,lizdas,lʲ ɪ z d ɐ s,R V S T V S,C V C C V C
+lit-131_lair-1,131_lair,ola,o lˠ ɑ,V R V,V C V
+lit-132_animal-1,132_animal,gyvūnas,gʲ iː ʋ uː n ɐ s,T V R V R V S,C V C V C V C
+lit-133_flock-1,133_flock,banda,b ɐ n d ɑ,T V R T V,C V C C V
+lit-133_flock-2,133_flock,kaimenė,k ɐɪˑ m ɛ n eː,T V R V R V,C V C V C V
+lit-134_cow-1,134_cow,karvė,k aˑ r ʋ eː,T V R R V,C V C C V
+lit-135_bull-1,135_bull,bulius,b ʊ lʲ ɪ ʊ s,T V R V V S,C V C V V C
+lit-136_horse-1,136_horse,arklys,ɐ r k lˠ iː s,V R T R V S,V C C C V C
+lit-137_sheep-1,137_sheep,avis,ɐ ʋʲ ɪ s,V R V S,V C V C
+lit-138_pig-1,138_pig,kiaulė,kʲ ɛʊˑ lˠ eː,T V R V,C V C V
+lit-139_dog-1,139_dog,šuo,ʃ uə,S V,C V
+lit-140_cat-1,140_cat,katė,k ɐ t eː,T V T V,C V C V
+lit-141_bear-1,141_bear,lokys,lˠ o k iː s,R V T V S,C V C V C
+lit-142_squirrel-1,142_squirrel,voveraitė,ʋ o ʋ ɛ r aˑ j ɪ t eː,R V R V R V R V T V,C V C V C V C V C V
+lit-143_elk-1,143_elk,briedis,b r i ə dʲ ɪ s,T R V V T V S,C C V V C V C
+lit-144_fox-1,144_fox,lapė,lˠ a p eː,R V T V,C V C V
+lit-145_hare-1,145_hare,kiškas,kʲ ɪ ʃ k ɐ s,T V S T V S,C V C C V C
+lit-146_mouse-1,146_mouse,pelė,p ɛ lˠ eː,T V R V,C V C V
+lit-147_wolf-1,147_wolf,vilkas,ʋʲ ɪ lˠˑ k ɐ s,R V R T V S,C V C C V C
+lit-148_bird-1,148_bird,paukštis,p ɒʊˑ k ʃ tʲ ɪ s,T V T S T V S,C V C C C V C
+lit-149_swarm-1,149_swarm,spiečius,s p i ə tʃʲ ɪ ʊ s,S T V V X V V S,C C V V C V V C
+lit-150_chicken-1,150_chicken,višta,ʋʲ ɪ ʃ t ɑ,R V S T V,C V C C V
+lit-151_cock-1,151_cock,gaidys,g ɐɪˑ d iː s,T V T V S,C V C V C
+lit-152_goose-1,152_goose,žąsis,ʒ ɑː sʲ ɪ s,S V S V S,C V C V C
+lit-153_eagle-1,153_eagle,erelis,ɛ r ɛ lʲ ɪ s,V R V R V S,V C V C V C
+lit-154_duck-1,154_duck,antis,aˑ n tʲ ɪ s,V R T V S,V C C V C
+lit-155_owl-1,155_owl,pelėda,p ɛ lˠ eː d ɐ,T V R V T V,C V C V C V
+lit-156_crane-1,156_crane,gervė,g eˑ r ʋ eː,T V R R V,C V C C V
+lit-157_crow-1,157_crow,varna,ʋ aˑ r n ɐ,R V R R V,C V C C V
+lit-158_cuckoo-1,158_cuckoo,gegužė,g ɛ g ʊ ʒ eː,T V T V S V,C V C V C V
+lit-159_swan-1,159_swan,gulbė,g ʊ lˠˑ b eː,T V R T V,C V C C V
+lit-160_fish-1,160_fish,žuvis,ʒ ʊ ʋʲ ɪ s,S V R V S,C V C V C
+lit-161_perch-1,161_perch,ešerys,ɛ ʃ ɛ r iː s,V S V R V S,V C V C V C
+lit-162_pike-1,162_pike,lydeka,lʲ iː d ɛ k ɑ,R V T V T V,C V C V C V
+lit-163_snake-1,163_snake,gyvatė,gʲ iː ʋ a t eː,T V R V T V,C V C V C V
+lit-164_worm-1,164_worm,kirmėlė,kʲ ɪ r m eː lˠ eː,T V R R V R V,C V C C V C V
+lit-165_spider-1,165_spider,voras,ʋ oː r ɐ s,R V R V S,C V C V C
+lit-166_ant-1,166_ant,skruzdė,s k r ʊ z d eː,S T R V S T V,C C C V C C V
+lit-167_louse-1,167_louse,utėlė,ʊ t eː lˠ eː,V T V R V,V C V C V
+lit-168_gnat-1,168_gnat,uodas,u ə d ɐ s,V V T V S,V V C V C
+lit-169_fly-1,169_fly,musė,m ʊ s eː,R V S V,C V C V
+lit-170_butterfly-1,170_butterfly,drugys,d r ʊ g iː s,T R V T V S,C C V C V C
+lit-170_butterfly-2,170_butterfly,peteliškė,p ɛ t ɛ lʲ ɪ ʃ k eː,T V T V R V S T V,C V C V C V C C V
+lit-171_berry-1,171_berry,uoga,u ə g ɐ,V V T V,V V C V
+lit-172_apple-1,172_apple,obuolys,o b uə lˠ iː s,V T V R V S,V C V C V C
+lit-173_mushroom-1,173_mushroom,grybas,g r iː b ɐ s,T R V T V S,C C V C V C
+lit-174_onion-1,174_onion,svogūnas,s ʋ o g uː n ɐ s,S R V T V R V S,C C V C V C V C
+lit-175_seed-1,175_seed,sėkla,s eː k lˠ ɐ,S V T R V,C V C C V
+lit-176_grain-1,176_grain,grūdai,g r uː d ɐɪˑ,T R V T V,C C V C V
+lit-177_hay-1,177_hay,šienas,ʃ i ə n ɐ s,S V V R V S,C V V C V C
+lit-178_peelhusk-1,178_peelhusk,žievelė,ʒ i ə ʋ ɛ lˠ eː,S V V R V R V,C V V C V C V
+lit-179_pit-1,179_pit,duobė,d uə b eː,T V T V,C V C V
+lit-180_trap-1,180_trap,pinklės,pʲ ɪ n k lˠ eː s,T V R T R V S,C V C C C V C
+lit-180_trap-2,180_trap,žabangai,ʒ ɐ b aˑ n g ɐɪˑ,S V T V R T V,C V C V C C V
+lit-181_noose-1,181_noose,kilpa,kʲ ɪ lˠ p ɐ,T V R T V,C V C C V
+lit-182_track-1,182_track,vėžė,ʋ eː ʒ eː,R V S V,C V C V
+lit-182_track-2,182_track,pėdos,p eː d o s,T V T V S,C V C V C
+lit-182_track-3,182_track,pėdsakas,p eː d s ɐ k ɐ s,T V T S V T V S,C V C C V C V C
+lit-183_ash-1,183_ash,pelenai,p ɛ lˠ ɛ n ɐɪˑ,T V R V R V,C V C V C V
+lit-184_filth-1,184_filth,purvas,p ʊ rˑ ʋ ɐ s,T V R R V S,C V C C V C
+lit-185_iron-1,185_iron,geležis,g ɛ lˠ ɛ ʒʲ ɪ s,T V R V S V S,C V C V C V C
+lit-186_gold-1,186_gold,auksas,aˑ ʊ k s ɐ s,V V T S V S,V V C C V C
+lit-187_silver-1,187_silver,sidabras,sʲ ɪ d a b r ɐ s,S V T V T R V S,C V C V C C V C
+lit-188_coal-1,188_coal,anglis,ɐ n g lʲ ɪ s,V R T R V S,V C C C V C
+lit-189_glass-1,189_glass,stiklas,s tʲ ɪ k lˠ ɐ s,S T V T R V S,C C V C C V C
+lit-190_clay-1,190_clay,molis,m oː lʲ ɪ s,R V R V S,C V C V C
+lit-191_sand-1,191_sand,smėlis,s m eː lʲ ɪ s,S R V R V S,C C V C V C
+lit-192_human-1,192_human,žmogus,ʒ m o g ʊ s,S R V T V S,C C V C V C
+lit-193_man-1,193_man,vyras,ʋ iː r ɐ s,R V R V S,C V C V C
+lit-193_man-2,193_man,vyriškis,ʋʲ iː rʲ ɪ ʃ kʲ ɪ s,R V R V S T V S,C V C V C C V C
+lit-194_woman-1,194_woman,moteris,m oː t ɛ rʲ ɪ s,R V T V R V S,C V C V C V C
+lit-195_child-1,195_child,vaikas,ʋ ɐɪˑ k ɐ s,R V T V S,C V C V C
+lit-196_boy-1,196_boy,vaikinas,ʋ ɐɪˑ kʲ ɪ n ɐ s,R V T V R V S,C V C V C V C
+lit-196_boy-2,196_boy,berniukas,b ɛ r nʲ ɪ ʊ k ɐ s,T V R R V V T V S,C V C C V V C V C
+lit-197_girl-1,197_girl,mergytė,m ɛ r g iː t eː,R V R T V T V,C V C C V C V
+lit-197_girl-2,197_girl,mergaitė,m ɛ r g aˑ j ɪ t eː,R V R T V R V T V,C V C C V C V C V
+lit-198_family-1,198_family,šeima,ʃ ɛɪˑ m ɑ,S V R V,C V C V
+lit-199_grandfather-1,199_grandfather,senelis,s ɛ n ɛ lʲ ɪ s,S V R V R V S,C V C V C V C
+lit-200_grandmother-1,200_grandmother,senelė,s ɛ n ɛ lˠ eː,S V R V R V,C V C V C V
+lit-201_parents-1,201_parents,tėvai,t eː ʋ ɐɪˑ,T V R V,C V C V
+lit-202_father-1,202_father,tėvas,t eː ʋ ɐ s,T V R V S,C V C V C
+lit-203_mother-1,203_mother,motina,m oː tʲ ɪ n ɐ,R V T V R V,C V C V C V
+lit-204_son-1,204_son,sūnus,s uː n ʊ s,S V R V S,C V C V C
+lit-205_daughter-1,205_daughter,duktė,d ʊ k t eː,T V T T V,C V C C V
+lit-206_brother-1,206_brother,brolis,b r oː lʲ ɪ s,T R V R V S,C C V C V C
+lit-207_sister-1,207_sister,sesuo,s ɛ s uə,S V S V,C V C V
+lit-208_uncle-1,208_uncle,dėdė,d eː d eː,T V T V,C V C V
+lit-209_aunt-1,209_aunt,teta,t ɛ t ɑ,T V T V,C V C V
+lit-210_husband-1,210_husband,vyras,ʋ iː r ɐ s,R V R V S,C V C V C
+lit-211_wife-1,211_wife,žmona,ʒ m o n ɑ,S R V R V,C C V C V
+lit-212_joy-1,212_joy,džiaugsmas,d ʒʲ ɛʊˑ g s m ɐ s,T S V T S R V S,C C V C C C V C
+lit-213_laughter-1,213_laughter,juokas,j uə k ɐ s,R V T V S,C V C V C
+lit-214_happiness-1,214_happiness,laimė,lˠ aˑ j ɪ m eː,R V R V R V,C V C V C V
+lit-215_grief-1,215_grief,vargas,ʋ ɐ rˑ g ɐ s,R V R T V S,C V C C V C
+lit-215_grief-2,215_grief,rūpestis,r uː p ɛ s tʲ ɪ s,R V T V S T V S,C V C V C C V C
+lit-216_wish-1,216_wish,troškimas,t r o ʃ kʲ ɪ m ɐ s,T R V S T V R V S,C C V C C V C V C
+lit-216_wish-2,216_wish,pageidavimas,p ɐ g ɛɪˑ d a ʋʲ ɪ m ɐ s,T V T V T V R V R V S,C V C V C V C V C V C
+lit-217_desire-1,217_desire,noras,n oː r ɐ s,R V R V S,C V C V C
+lit-217_desire-2,217_desire,geidulys,g ɛɪˑ d ʊ lˠ iː s,T V T V R V S,C V C V C V C
+lit-218_spirit-1,218_spirit,dvasia,d ʋ ɐ sʲ ɛ,T R V S V,C C V C V
+lit-219_thought-1,219_thought,mintis,mʲ ɪ n tʲ ɪ s,R V R T V S,C V C C V C
+lit-220_memory-1,220_memory,atmintis,ɐ t mʲ ɪ n tʲ ɪ s,V T R V R T V S,V C C V C C V C
+lit-221_mind-1,221_mind,protas,p r oː t ɐ s,T R V T V S,C C V C V C
+lit-222_meaning-1,222_meaning,prasmė,p r ɐ s m eː,T R V S R V,C C V C C V
+lit-223_reason-1,223_reason,priežastis,p r i ə ʒ ɐ s tʲ ɪ s,T R V V S V S T V S,C C V V C V C C V C
+lit-224_truth-1,224_truth,tiesa,t i ə s ɑ,T V V S V,C V V C V
+lit-224_truth-2,224_truth,teisybė,t ɛɪˑ s iː b eː,T V S V T V,C V C V C V
+lit-225_talk-1,225_talk,pokalbis,p oː k ɐ lˠ bʲ ɪ s,T V T V R T V S,C V C V C C V C
+lit-226_fairytale-1,226_fairytale,pasaka,p a s ɐ k ɐ,T V S V T V,C V C V C V
+lit-227_story-1,227_story,apsakymas,ɐ p s a kʲ iː m ɐ s,V T S V T V R V S,V C C V C V C V C
+lit-227_story-2,227_story,pasakojimas,p a s ɐ k o j ɪ m ɐ s,T V S V T V R V R V S,C V C V C V C V C V C
+lit-228_message-1,228_message,žinia,ʒʲ ɪ nʲ ɛ,S V R V,C V C V
+lit-229_news-1,229_news,naujiena,n ɒʊˑ j i ə n ɐ,R V R V V R V,C V C V V C V
+lit-230_name-1,230_name,vardas,ʋ ɐ rˑ d ɐ s,R V R T V S,C V C C V C
+lit-231_puzzle-1,231_puzzle,mįslė,mʲ iː s lˠ eː,R V S R V,C V C C V
+lit-232_speech-1,232_speech,kalba,k ɐ lˠ b ɑ,T V R T V,C V C C V
+lit-233_language-1,233_language,kalba,k ɐ lˠ b ɑ,T V R T V,C V C C V
+lit-234_voice-1,234_voice,balsas,b ɐ lˠˑ s ɐ s,T V R S V S,C V C C V C
+lit-235_word-1,235_word,žodis,ʒ oː dʲ ɪ s,S V T V S,C V C V C
+lit-236_sign-1,236_sign,žymė,ʒʲ iː m eː,S V R V,C V C V
+lit-236_sign-2,236_sign,ženklas,ʒ eˑ n k lˠ ɐ s,S V R T R V S,C V C C C V C
+lit-237_call-1,237_call,šauksmas,ʃ ɒʊˑ k s m ɐ s,S V T S R V S,C V C C C V C
+lit-238_noise-1,238_noise,triukšmas,t rʲ ɪ ʊ k ʃ m ɐ s,T R V V T S R V S,C C V V C C C V C
+lit-239_sound-1,239_sound,garsas,g ɐ rˑ s ɐ s,T V R S V S,C V C C V C
+lit-240_tone-1,240_tone,tonas,t ò n ɐ s,T V R V S,C V C V C
+lit-240_tone-2,240_tone,garsas,g ɐ rˑ s ɐ s,T V R S V S,C V C C V C
+lit-241_song-1,241_song,daina,d ɐɪˑ n ɑ,T V R V,C V C V
+lit-241_song-2,241_song,giesmė,g i ə s m eː,T V V S R V,C V V C C V
+lit-242_calm-1,242_calm,ramybė,r ɐ m iː b eː,R V R V T V,C V C V C V
+lit-242_calm-2,242_calm,ramumas,r ɐ m ʊ m ɐ s,R V R V R V S,C V C V C V C
+lit-243_people-1,243_people,žmonės,ʒ m oː n eː s,S R V R V S,C C V C V C
+lit-244_nation-1,244_nation,tauta,t ɒʊˑ t ɑ,T V T V,C V C V
+lit-245_work-1,245_work,darbas,d aˑ r b ɐ s,T V R T V S,C V C C V C
+lit-245_work-2,245_work,triūsas,t rʲ ɪ uː s ɐ s,T R V V S V S,C C V V C V C
+lit-246_guest-1,246_guest,svečias,s ʋ ɛ tʃʲ ɛ s,S R V X V S,C C V C V C
+lit-247_gift-1,247_gift,dovana,d o ʋ ɐ n ɑ,T V R V R V,C V C V C V
+lit-248_game-1,248_game,žaismas,ʒ ɐɪˑ s m ɐ s,S V S R V S,C V C C V C
+lit-248_game-2,248_game,žaidimas,ʒ ɐɪˑ dʲ ɪ m ɐ s,S V T V R V S,C V C V C V C
+lit-249_company-1,249_company,draugija,d r ɒʊˑ gʲ ɪ j ɑ,T R V T V R V,C C V C V C V
+lit-249_company-2,249_company,kompanija,k o m p a nʲ ɪ j ɐ,T V R T V R V R V,C V C C V C V C V
+lit-250_help-1,250_help,pagalba,p ɐ g aˑ lˠ b ɐ,T V T V R T V,C V C V C C V
+lit-251_friend-1,251_friend,draugas,d r ɒʊˑ g ɐ s,T R V T V S,C C V C V C
+lit-251_friend-2,251_friend,bičiulis,bʲ ɪ tʃʲ ɪ ʊ lʲ ɪ s,T V X V V R V S,C V C V V C V C
+lit-252_companion-1,252_companion,draugas,d r ɒʊˑ g ɐ s,T R V T V S,C C V C V C
+lit-253_matter-1,253_matter,dalykas,d ɐ lˠ iː k ɐ s,T V R V T V S,C V C V C V C
+lit-253_matter-2,253_matter,reikalas,r ɛɪˑ k ɐ lˠ ɐ s,R V T V R V S,C V C V C V C
+lit-254_count-1,254_count,kiekis,k i ə kʲ ɪ s,T V V T V S,C V V C V C
+lit-254_count-2,254_count,skaičius,s k ɐɪˑ tʃʲ ɪ ʊ s,S T V X V V S,C C V C V V C
+lit-255_sort-1,255_sort,rūšis,r uː ʃʲ ɪ s,R V S V S,C V C V C
+lit-256_piece-1,256_piece,gabalas,g a b ɐ lˠ ɐ s,T V T V R V S,C V C V C V C
+lit-257_part-1,257_part,dalis,d ɐ lʲ ɪ s,T V R V S,C V C V C
+lit-258_half-1,258_half,pusė,p ʊ s eː,T V S V,C V C V
+lit-259_circle-1,259_circle,ratas,r a t ɐ s,R V T V S,C V C V C
+lit-259_circle-2,259_circle,apskritis,ɐ p s k rʲ ɪ tʲ ɪ s,V T S T R V T V S,V C C C C V C V C
+lit-259_circle-3,259_circle,apskritimas,ɐ p s k rʲ ɪ tʲ ɪ m ɐ s,V T S T R V T V R V S,V C C C C V C V C V C
+lit-260_cross-1,260_cross,kryžius,k r iː ʒʲ ɪ ʊ s,T R V S V V S,C C V C V V C
+lit-261_line-1,261_line,linija,lʲ ɪ nʲ ɪ j ɐ,R V R V R V,C V C V C V
+lit-262_stroke-1,262_stroke,brėžis,b r eː ʒʲ ɪ s,T R V S V S,C C V C V C
+lit-262_stroke-2,262_stroke,brūkšnys,b r uː k ʃ n iː s,T R V T S R V S,C C V C C C V C
+lit-263_gap-1,263_gap,atstumas,ɐ t s t ʊ m ɐ s,V T S T V R V S,V C C C V C V C
+lit-264_distance-1,264_distance,atstumas,ɐ t s t ʊ m ɐ s,V T S T V R V S,V C C C V C V C
+lit-265_area-1,265_area,vietovė,ʋ i ə t oː ʋ eː,R V V T V R V,C V V C V C V
+lit-266_space-1,266_space,vieta,ʋ i ə t ɑ,R V V T V,C V V C V
+lit-267_place-1,267_place,vieta,ʋ i ə t ɑ,R V V T V,C V V C V
+lit-267_place-2,267_place,vietovė,ʋ i ə t oː ʋ eː,R V V T V R V,C V V C V C V
+lit-268_side-1,268_side,pusė,p ʊ s eː,T V S V,C V C V
+lit-268_side-2,268_side,šonas,ʃ oː n ɐ s,S V R V S,C V C V C
+lit-269_middle-1,269_middle,vidurys,ʋʲ ɪ d ʊ r iː s,R V T V R V S,C V C V C V C
+lit-270_item-1,270_item,dalykas,d ɐ lˠ iː k ɐ s,T V R V T V S,C V C V C V C
+lit-271_thing-1,271_thing,daiktas,d aˑ j ɪ k t ɐ s,T V R V T T V S,C V C V C C V C
+lit-272_fringe-1,272_fringe,kraštas,k r a ʃ t ɐ s,T R V S T V S,C C V C C V C
+lit-272_fringe-2,272_fringe,pakraštys,p ɐ k r ɐ ʃ t iː s,T V T R V S T V S,C V C C V C C V C
+lit-273_edge-1,273_edge,kraštas,k r a ʃ t ɐ s,T R V S T V S,C C V C C V C
+lit-274_corner-1,274_corner,kertė,k ɛ r t eː,T V R T V,C V C C V
+lit-274_corner-2,274_corner,kampas,k ɐ mˑ p ɐ s,T V R T V S,C V C C V C
+lit-275_tip-1,275_tip,priekis,p r i ə kʲ ɪ s,T R V V T V S,C C V V C V C
+lit-275_tip-2,275_tip,priešakys,p r i ə ʃ ɐ k iː s,T R V V S V T V S,C C V V C V C V C
+lit-276_end-1,276_end,galas,g a lˠ ɐ s,T V R V S,C V C V C
+lit-277_hole-1,277_hole,skylė,s kʲ iː lˠ eː,S T V R V,C C V C V
+lit-278_angle-1,278_angle,kampas,k ɐ mˑ p ɐ s,T V R T V S,C V C C V C
+lit-278_angle-2,278_angle,kampelis,k ɐ m p ɛ lʲ ɪ s,T V R T V R V S,C V C C V C V C
+lit-279_pattern-1,279_pattern,raštas,r a ʃ t ɐ s,R V S T V S,C V C C V C
+lit-280_size-1,280_size,dydis,d iː dʲ ɪ s,T V T V S,C V C V C
+lit-280_size-2,280_size,didumas,dʲ ɪ d ʊ m ɐ s,T V T V R V S,C V C V C V C
+lit-281_length-1,281_length,ilgis,ɪ lˠˑ gʲ ɪ s,V R T V S,V C C V C
+lit-281_length-2,281_length,ilgumas,ɪ lˠ g ʊ m ɐ s,V R T V R V S,V C C V C V C
+lit-282_height-1,282_height,aukštis,ɒʊˑ k ʃ tʲ ɪ s,V T S T V S,V C C C V C
+lit-282_height-2,282_height,aukštuma,ɒʊˑ k ʃ t ʊ m ɑ,V T S T V R V,V C C C V C V
+lit-283_weight-1,283_weight,svoris,s ʋ oː rʲ ɪ s,S R V R V S,C C V C V C
+lit-283_weight-2,283_weight,svarstis,s ʋ ɐ rˑ s tʲ ɪ s,S R V R S T V S,C C V C C C V C
+lit-284_amount-1,284_amount,kiekis,k i ə kʲ ɪ s,T V V T V S,C V V C V C
+lit-284_amount-2,284_amount,daugybė,d ɒʊˑ g iː b eː,T V T V T V,C V C V C V
+lit-285_heap-1,285_heap,krūva,k r uː ʋ ɑ,T R V R V,C C V C V
+lit-285_heap-2,285_heap,šūsnis,ʃ uː s nʲ ɪ s,S V S R V S,C V C C V C
+lit-286_row-1,286_row,greta,g r ɛ t ɑ,T R V T V,C C V C V
+lit-287_boat-1,287_boat,valtis,ʋ aˑ lˠ tʲ ɪ s,R V R T V S,C V C C V C
+lit-287_boat-2,287_boat,laivelis,lˠ ɐɪˑ ʋ ɛ lʲ ɪ s,R V R V R V S,C V C V C V C
+lit-288_oar-1,288_oar,irklas,ɪ r k lˠ ɐ s,V R T R V S,V C C C V C
+lit-289_sleigh-1,289_sleigh,rogės,r oː g eː s,R V T V S,C V C V C
+lit-289_sleigh-2,289_sleigh,rogutės,r o g ʊ t eː s,R V T V T V S,C V C V C V C
+lit-290_ski-1,290_ski,slidė,s lʲ ɪ d eː,S R V T V,C C V C V
+lit-291_campfire-1,291_campfire,laužas,lˠ aˑ ʊ ʒ ɐ s,R V V S V S,C V V C V C
+lit-292_load-1,292_load,našta,n ɐ ʃ t ɑ,R V S T V,C V C C V
+lit-292_load-2,292_load,nešulys,n ɛ ʃ ʊ lˠ iː s,R V S V R V S,C V C V C V C
+lit-293_walk-1,293_walk,eisena,ɛɪˑ s ɛ n ɐ,V S V R V,V C V C V
+lit-294_step-1,294_step,žingsnis,ʒʲ ɪ nˑ g s nʲ ɪ s,S V R T S R V S,C V C C C C V C
+lit-295_north-1,295_north,šiaurė,ʃʲ ɪ aˑ ʊ r eː,S V V V R V,C V V V C V
+lit-295_north-2,295_north,žiemiai,ʒ i ə mʲ ɛɪˑ,S V V R V,C V V C V
+lit-296_south-1,296_south,pietūs,p i ə t uː s,T V V T V S,C V V C V C
+lit-297_west-1,297_west,vakarai,ʋ ɐ k ɐ r ɐɪˑ,R V T V R V,C V C V C V
+lit-298_east-1,298_east,rytai,rʲ iː t ɐɪˑ,R V T V,C V C V
+lit-299_wood-1,299_wood,mediena,m ɛ d i ə n ɐ,R V T V V R V,C V C V V C V
+lit-300_board-1,300_board,lenta,lˠ ɛ n t ɑ,R V R T V,C V C C V
+lit-301_slab-1,301_slab,plokštė,p lˠ oː k ʃ t eː,T R V T S T V,C C V C C C V
+lit-302_supportrest-1,302_supportrest,atrama,ɐ t r ɐ m ɑ,V T R V R V,V C C V C V
+lit-302_supportrest-2,302_supportrest,atspara,ɐ t s p ɐ r ɑ,V T S T V R V,V C C C V C V
+lit-303_pole-1,303_pole,lazda,lˠ ɐ z d ɑ,R V S T V,C V C C V
+lit-303_pole-2,303_pole,kartis,k aˑ r tʲ ɪ s,T V R T V S,C V C C V C
+lit-304_stick-1,304_stick,lazda,lˠ ɐ z d ɑ,R V S T V,C V C C V
+lit-305_staff-1,305_staff,kartis,k aˑ r tʲ ɪ s,T V R T V S,C V C C V C
+lit-306_pipe-1,306_pipe,vamzdis,ʋ ɐ mˑ z dʲ ɪ s,R V R S T V S,C V C C C V C
+lit-307_house-1,307_house,namas,n a m ɐ s,R V R V S,C V C V C
+lit-308_home-1,308_home,namai,n ɐ m ɐɪˑ,R V R V,C V C V
+lit-309_stove-1,309_stove,krosnis,k r oː s nʲ ɪ s,T R V S R V S,C C V C C V C
+lit-310_floor-1,310_floor,grindys,g rʲ ɪ nˑ dʲ iː s,T R V R T V S,C C V C C V C
+lit-311_table-1,311_table,stalas,s t a lˠ ɐ s,S T V R V S,C C V C V C
+lit-312_chair-1,312_chair,kėdė,k eː d eː,T V T V,C V C V
+lit-313_cradle-1,313_cradle,lopšys,lˠ o p ʃ iː s,R V T S V S,C V C C V C
+lit-314_bed-1,314_bed,lova,lˠ oː ʋ ɐ,R V R V,C V C V
+lit-314_bed-2,314_bed,patalai,p ɐ t ɐ lˠ ɐɪˑ,T V T V R V,C V C V C V
+lit-315_shelf-1,315_shelf,lentyna,lˠ ɛ n t iː n ɐ,R V R T V R V,C V C C V C V
+lit-316_box-1,316_box,dėžė,d eː ʒ eː,T V S V,C V C V
+lit-317_window-1,317_window,langas,lˠ aˑ n g ɐ s,R V R T V S,C V C C V C
+lit-318_door-1,318_door,durys,d ʊ rʲ iː s,T V R V S,C V C V C
+lit-319_gate-1,319_gate,vartai,ʋ ɐ rˑ t ɐɪˑ,R V R T V,C V C C V
+lit-320_fence-1,320_fence,tvora,t ʋ o r ɑ,T R V R V,C C V C V
+lit-321_roof-1,321_roof,stogas,s t oː g ɐ s,S T V T V S,C C V C V C
+lit-322_ladder-1,322_ladder,kopėčios,k oː p eː tʃʲ ɪ o s,T V T V X V V S,C V C V C V V C
+lit-323_broom-1,323_broom,šluota,ʃ lˠ u ə t ɐ,S R V V T V,C C V V C V
+lit-324_spade-1,324_spade,lopeta,lˠ oː p ɛ t ɐ,R V T V T V,C V C V C V
+lit-324_spade-2,324_spade,kastuvas,k ɐ s t ʊ ʋ ɐ s,T V S T V R V S,C V C C V C V C
+lit-325_shovel-1,325_shovel,semtuvas,s ɛ m t ʊ ʋ ɐ s,S V R T V R V S,C V C C V C V C
+lit-326_fork-1,326_fork,šakutė,ʃ ɐ k ʊ t eː,S V T V T V,C V C V C V
+lit-327_spoon-1,327_spoon,šaukštas,ʃ aˑ ʊ k ʃ t ɐ s,S V V T S T V S,C V V C C C V C
+lit-328_knife-1,328_knife,peilis,p ɛɪˑ lʲ ɪ s,T V R V S,C V C V C
+lit-329_nail-1,329_nail,vinis,ʋʲ ɪ nʲ ɪ s,R V R V S,C V C V C
+lit-330_net-1,330_net,tinklas,tʲ ɪ nˑ k lˠ ɐ s,T V R T R V S,C V C C C V C
+lit-331_hook-1,331_hook,vagis,ʋ a gʲ ɪ s,R V T V S,C V C V C
+lit-331_hook-2,331_hook,kablys,k ɐ b lˠ iː s,T V T R V S,C V C C V C
+lit-332_handle-1,332_handle,kotas,k oː t ɐ s,T V T V S,C V C V C
+lit-332_handle-2,332_handle,rankena,r ɐ nˑ k ɛ n ɐ,R V R T V R V,C V C C V C V
+lit-333_lock-1,333_lock,spyna,s pʲ iː n ɑ,S T V R V,C C V C V
+lit-333_lock-2,333_lock,užraktas,ʊ ʒ r ɐ k t ɐ s,V S R V T T V S,V C C V C C V C
+lit-334_picture-1,334_picture,paveikslas,p ɐ ʋ æˑ j ɪ k s lˠ ɐ s,T V R V R V T S R V S,C V C V C V C C C V C
+lit-335_figure-1,335_figure,figūra,fʲ ɪ g uː r ɑ,X V T V R V,C V C V C V
+lit-336_doll-1,336_doll,lėlė,lˠ eː lˠ eː,R V R V,C V C V
+lit-337_pouch-1,337_pouch,krepšys,k r ɛ p ʃ iː s,T R V T S V S,C C V C C V C
+lit-337_pouch-2,337_pouch,maišelis,m ɐɪˑ ʃ ɛ lʲ ɪ s,R V S V R V S,C V C V C V C
+lit-338_bundle-1,338_bundle,ryšulys,rʲ iː ʃ ʊ lˠ iː s,R V S V R V S,C V C V C V C
+lit-339_bag-1,339_bag,krepšelis,k r ɛ p ʃ ɛ lʲ ɪ s,T R V T S V R V S,C C V C C V C V C
+lit-340_bucket-1,340_bucket,kibiras,kʲ ɪ bʲ ɪ r ɐ s,T V T V R V S,C V C V C V C
+lit-341_coverlid-1,341_coverlid,dangtis,d ɐ nˑ g tʲ ɪ s,T V R T T V S,C V C C C V C
+lit-342_dishes-1,342_dishes,indai,ɪ nˑ d ɐɪˑ,V R T V,V C C V
+lit-343_sack-1,343_sack,maišas,m ɐɪˑ ʃ ɐ s,R V S V S,C V C V C
+lit-344_cup-1,344_cup,puodukas,p uə d ʊ k ɐ s,T V T V T V S,C V C V C V C
+lit-345_pot-1,345_pot,puodas,p u ə d ɐ s,T V V T V S,C V V C V C
+lit-346_kettle-1,346_kettle,katilas,k a tʲ ɪ lˠ ɐ s,T V T V R V S,C V C V C V C
+lit-347_meal-1,347_meal,valgis,ʋ ɐ lˠˑ gʲ ɪ s,R V R T V S,C V C C V C
+lit-348_food-1,348_food,penas,p ɛ n ɐ s,T V R V S,C V C V C
+lit-348_food-2,348_food,maistas,m ɐɪˑ s t ɐ s,R V S T V S,C V C C V C
+lit-349_dish-1,349_dish,patiekalas,p a t i ə k ɐ lˠ ɐ s,T V T V V T V R V S,C V C V V C V C V C
+lit-350_meat-1,350_meat,mėsa,m eː s ɑ,R V S V,C V C V
+lit-351_corn-1,351_corn,javai,j ɐ ʋ ɐɪˑ,R V R V,C V C V
+lit-352_mush-1,352_mush,košė,k oː ʃ eː,T V S V,C V C V
+lit-353_bread-1,353_bread,duona,d u ə n ɐ,T V V R V,C V V C V
+lit-354_slice-1,354_slice,riekė,r i ə k eː,R V V T V,C V V C V
+lit-355_fat-1,355_fat,taukai,t ɒʊˑ k ɐɪˑ,T V T V,C V C V
+lit-355_fat-2,355_fat,riebalai,r i ə b ɐ lˠ ɐɪˑ,R V V T V R V,C V V C V C V
+lit-356_butter-1,356_butter,sviestas,s ʋ i ə s t ɐ s,S R V V S T V S,C C V V C C V C
+lit-357_oil-1,357_oil,aliejus,ɐ lˠ i ə j ʊ s,V R V V R V S,V C V V C V C
+lit-358_salt-1,358_salt,druska,d r ʊ s k ɑ,T R V S T V,C C V C C V
+lit-359_soup-1,359_soup,sriuba,s rʲ ɪ ʊ b ɑ,S R V V T V,C C V V C V
+lit-360_honey-1,360_honey,medus,m ɛ d ʊ s,R V T V S,C V C V C
+lit-361_milk-1,361_milk,pienas,p i ə n ɐ s,T V V R V S,C V V C V C
+lit-362_tea-1,362_tea,arbata,ɐ r b ɐ t ɑ,V R T V T V,V C C V C V
+lit-363_leather-1,363_leather,oda,oː d ɐ,V T V,V C V
+lit-364_wool-1,364_wool,vilna,ʋʲ ɪ lˠ n ɐ,R V R R V,C V C C V
+lit-365_cloth-1,365_cloth,audeklas,aˑ ʊ d ɛ k lˠ ɐ s,V V T V T R V S,V V C V C C V C
+lit-366_needle-1,366_needle,adata,a d ɐ t ɐ,V T V T V,V C V C V
+lit-367_thread-1,367_thread,gija,gʲ ɪ j ɑ,T V R V,C V C V
+lit-367_thread-2,367_thread,siūlas,sʲ ɪ uː lˠ ɐ s,S V V R V S,C V V C V C
+lit-368_button-1,368_button,saga,s ɐ g ɑ,S V T V,C V C V
+lit-369_knot-1,369_knot,mazgas,m a z g ɐ s,R V S T V S,C V C C V C
+lit-370_paint-1,370_paint,dažai,d ɐ ʒ ɐɪˑ,T V S V,C V C V
+lit-371_clothes-1,371_clothes,rūbai,r uː b ɐɪˑ,R V T V,C V C V
+lit-371_clothes-2,371_clothes,drabužiai,d r ɐ b ʊ ʒʲ ɛɪˑ,T R V T V S V,C C V C V C V
+lit-372_shirt-1,372_shirt,marškiniai,m ɐ r ʃ kʲ ɪ nʲ ɛɪˑ,R V R S T V R V,C V C C C V C V
+lit-373_collar-1,373_collar,apykaklė,ɐ p iː k ɐ k lˠ eː,V T V T V T R V,V C V C V C C V
+lit-374_sleeve-1,374_sleeve,rankovė,r ɐ n k oː ʋ eː,R V R T V R V,C V C C V C V
+lit-375_trousers-1,375_trousers,kelnės,k eˑ lˠ n eː s,T V R R V S,C V C C V C
+lit-376_belt-1,376_belt,juosta,j u ə s t ɐ,R V V S T V,C V V C C V
+lit-376_belt-2,376_belt,diržas,dʲ ɪ rˑ ʒ ɐ s,T V R S V S,C V C C V C
+lit-377_cap-1,377_cap,kepurė,k ɛ p ʊ r eː,T V T V R V,C V C V C V
+lit-378_shoe-1,378_shoe,batas,b a t ɐ s,T V T V S,C V C V C
+lit-379_boot-1,379_boot,auliniai batai,ɒʊˑ lʲ ɪ nʲ ɛɪˑ + b a t ɐɪˑ,V R V R V X T V T V,V C V C V X C V C V
+lit-380_ring-1,380_ring,žiedas,ʒ i ə d ɐ s,S V V T V S,C V V C V C
+lit-381_ribbon-1,381_ribbon,kaspinas,k a s pʲ ɪ n ɐ s,T V S T V R V S,C V C C V C V C
+lit-382_comb-1,382_comb,šukos,ʃ ʊ k o s,S V T V S,C V C V C
+lit-383_mirror-1,383_mirror,veidrodis,ʋ æˑ j ɪ d r o dʲ ɪ s,R V R V T R V T V S,C V C V C C V C V C
+lit-384_strap-1,384_strap,diržas,dʲ ɪ rˑ ʒ ɐ s,T V R S V S,C V C C V C
+lit-385_string-1,385_string,virvė,ʋʲ ɪ rˑ ʋ eː,R V R R V,C V C C V
+lit-386_leash-1,386_leash,pavadėlis,p ɐ ʋ ɐ d eː lʲ ɪ s,T V R V T V R V S,C V C V C V C V C
+lit-387_blanket-1,387_blanket,antklodė,ɐ nˑ t k lˠ o d eː,V R T T R V T V,V C C C C V C V
+lit-388_pillow-1,388_pillow,pagalvė,p ɐ g aˑ lˠ ʋ eː,T V T V R R V,C V C V C C V
+lit-388_pillow-2,388_pillow,priegalvis,p r i ə g ɐ lˠ ʋʲ ɪ s,T R V V T V R R V S,C C V V C V C C V C
+lit-389_scarf-1,389_scarf,skarelė,s k ɐ r ɛ lˠ eː,S T V R V R V,C C V C V C V
+lit-390_towel-1,390_towel,rankšluostis,r ɐ nˑ k ʃ lˠ uə s tʲ ɪ s,R V R T S R V S T V S,C V C C C C V C C V C
+lit-391_force-1,391_force,jėga,j eː g ɑ,R V T V,C V C V
+lit-392_strength-1,392_strength,stiprumas,s tʲ ɪ p r ʊ m ɐ s,S T V T R V R V S,C C V C C V C V C
+lit-393_health-1,393_health,sveikata,s ʋ ɛɪˑ k ɐ t ɑ,S R V T V T V,C C V C V C V
+lit-394_illness-1,394_illness,liga,lʲ ɪ g ɑ,R V T V,C V C V
+lit-395_pain-1,395_pain,skausmas,s k ɒʊˑ s m ɐ s,S T V S R V S,C C V C C V C
+lit-396_wound-1,396_wound,žaizda,ʒ ɐɪˑ z d ɑ,S V S T V,C V C C V
+lit-397_fever-1,397_fever,karštis,k ɐ rˑ ʃ tʲ ɪ s,T V R S T V S,C V C C C V C
+lit-398_medicine-1,398_medicine,vaistas,ʋ aˑ j ɪ s t ɐ s,R V R V S T V S,C V C V C C V C
+lit-399_bridge-1,399_bridge,tiltas,tʲ ɪ lˠ t ɐ s,T V R T V S,C V C C V C
+lit-400_well-1,400_well,šulinys,ʃ ʊ lʲ ɪ n iː s,S V R V R V S,C V C V C V C
+lit-401_pasture-1,401_pasture,ganykla,g ɐ nʲ iː k lˠ ɑ,T V R V T R V,C V C V C C V
+lit-401_pasture-2,401_pasture,gluosnis,g lˠ u ə s nʲ ɪ s,T R V V S R V S,C C V V C C V C
+lit-402_path-1,402_path,takas,t a k ɐ s,T V T V S,C V C V C
+lit-403_way-1,403_way,kelias,k ɛ lʲ ɛ s,T V R V S,C V C V C
+lit-404_road-1,404_road,gatvė,g a t ʋ eː,T V T R V,C V C C V
+lit-405_village-1,405_village,kaimas,k aˑ j ɪ m ɐ s,T V R V R V S,C V C V C V C
+lit-405_village-2,405_village,sodžius,s oː d ʒʲ ɪ ʊ s,S V T S V V S,C V C C V V C
+lit-406_town-1,406_town,miestas,m i ə s t ɐ s,R V V S T V S,C V V C C V C
+lit-407_letter-1,407_letter,laiškas,lˠ aˑ j ɪ ʃ k ɐ s,R V R V S T V S,C V C V C C V C
+lit-408_book-1,408_book,knyga,k nʲ iː g ɑ,T R V T V,C C V C V
+lit-409_character-1,409_character,raidė,r ɐɪˑ d eː,R V T V,C V C V
+lit-410_newspaper-1,410_newspaper,laikraštis,lˠ ɐɪˑ k r ɐ ʃ tʲ ɪ s,R V T R V S T V S,C V C C V C C V C
+lit-411_life-1,411_life,gyvybė,gʲ iː ʋ iː b eː,T V R V T V,C V C V C V
+lit-411_life-2,411_life,gyvenimas,gʲ iː ʋ ɛ nʲ ɪ m ɐ s,T V R V R V R V S,C V C V C V C V C
+lit-412_death-1,412_death,mirtis,mʲ ɪ r tʲ ɪ s,R V R T V S,C V C C V C
+lit-413_grave-1,413_grave,kapas,k a p ɐ s,T V T V S,C V C V C
+lit-414_church-1,414_church,bažnyčia,b ɐ ʒ n iː tʃʲ ɛ,T V S R V X V,C V C C V C V
+lit-415_sin-1,415_sin,nuodėmė,n u ə d eː m eː,R V V T V R V,C V V C V C V
+lit-415_sin-2,415_sin,nusidėjimas,n ʊ sʲ ɪ d eː j ɪ m ɐ s,R V S V T V R V R V S,C V C V C V C V C V C
+lit-416_god-1,416_god,dievas,d i ə ʋ ɐ s,T V V R V S,C V V C V C
+lit-417_worker-1,417_worker,darbininkas,d ɐ r bʲ ɪ nʲ ɪ nˑ k ɐ s,T V R T V R V R T V S,C V C C V C V C C V C
+lit-418_boss-1,418_boss,šefas,ʃ ɛ f ɐ s,S V X V S,C V C V C
+lit-418_boss-2,418_boss,vadovas,ʋ ɐ d oː ʋ ɐ s,R V T V R V S,C V C V C V C
+lit-418_boss-3,418_boss,viršininkas,ʋʲ ɪ rˑ ʃʲ ɪ nʲ ɪ n k ɐ s,R V R S V R V R T V S,C V C C V C V C C V C
+lit-419_master-1,419_master,meistras,m æˑ j ɪ s t r ɐ s,R V R V S T R V S,C V C V C C C V C
+lit-420_doctor-1,420_doctor,gydytojas,g iː dʲ iː t o j ɐ s,T V T V T V R V S,C V C V C V C V C
+lit-421_teacher-1,421_teacher,mokytojas,m oː kʲ iː t o j ɐ s,R V T V T V R V S,C V C V C V C V C
+lit-422_money-1,422_money,pinigai,pʲ ɪ nʲ ɪ g ɐɪˑ,T V R V T V,C V C V C V
+lit-423_business-1,423_business,biznis,bʲ ɪ z nʲ ɪ s,T V S R V S,C V C C V C
+lit-424_shop-1,424_shop,krautuvė,k r aˑ ʊ t ʊ ʋ eː,T R V V T V R V,C C V V C V C V
+lit-424_shop-2,424_shop,parduotuvė,p ɐ r d uə t ʊ ʋ eː,T V R T V T V R V,C V C C V C V C V
+lit-425_price-1,425_price,kaina,k aˑ j ɪ n ɐ,T V R V R V,C V C V C V
+lit-426_ware-1,426_ware,prekė,p r ɛ k eː,T R V T V,C C V C V
+lit-427_benefit-1,427_benefit,nauda,n ɒʊˑ d ɑ,R V T V,C V C V
+lit-427_benefit-2,427_benefit,pelnas,p ɛ lˠˑ n ɐ s,T V R R V S,C V C C V C
+lit-428_wealth-1,428_wealth,turtas,t ʊ rˑ t ɐ s,T V R T V S,C V C C V C
+lit-429_world-1,429_world,pasaulis,p ɐ s aˑ ʊ lʲ ɪ s,T V S V V R V S,C V C V V C V C
+lit-430_country-1,430_country,žemė,ʒ ɛ m eː,S V R V,C V C V
+lit-430_country-2,430_country,šalis,ʃ ɐ lʲ ɪ s,S V R V S,C V C V C
+lit-431_state-1,431_state,valstija,ʋ ɐ lˠ s tʲ ɪ j ɑ,R V R S T V R V,C V C C C V C V
+lit-432_king-1,432_king,karalius,k ɐ r a lʲ ɪ ʊ s,T V R V R V V S,C V C V C V V C
+lit-433_power-1,433_power,galia,g ɐ lʲ ɛ,T V R V,C V C V
+lit-433_power-2,433_power,valdžia,ʋ ɐ lˠ d ʒʲ ɛ,R V R T S V,C V C C C V
+lit-434_border-1,434_border,riba,rʲ ɪ b ɑ,R V T V,C V C V
+lit-434_border-2,434_border,siena,s i ə n ɐ,S V V R V,C V V C V
+lit-435_war-1,435_war,karas,k a r ɐ s,T V R V S,C V C V C
+lit-436_enemy-1,436_enemy,priešas,p r i ə ʃ ɐ s,T R V V S V S,C C V V C V C
+lit-437_violence-1,437_violence,jėga,j eː g ɑ,R V T V,C V C V
+lit-437_violence-2,437_violence,smurtas,s m ʊ r t ɐ s,S R V R T V S,C C V C C V C
+lit-437_violence-3,437_violence,prievarta,p r i ə ʋ ɐ r t ɐ,T R V V R V R T V,C C V V C V C C V
+lit-438_fight-1,438_fight,kova,k o ʋ ɑ,T V R V,C V C V
+lit-439_bow-1,439_bow,lankas,lˠ ɐ nˑ k ɐ s,R V R T V S,C V C C V C
+lit-440_arrow-1,440_arrow,strėlė,s t r eː lˠ eː,S T R V R V,C C C V C V
+lit-441_gun-1,441_gun,šautuvas,ʃ aˑ ʊ t ʊ ʋ ɐ s,S V V T V R V S,C V V C V C V C
+lit-442_mistake-1,442_mistake,klaida,k lˠ ɐɪˑ d ɑ,T R V T V,C C V C V
+lit-443_lie-1,443_lie,melas,m ɛ lˠ ɐ s,R V R V S,C V C V C
+lit-444_damage-1,444_damage,nuostolis,n u ə s t o lʲ ɪ s,R V V S T V R V S,C V V C C V C V C
+lit-444_damage-2,444_damage,apgadinimas,ɐ p g ɐ dʲ ɪ nʲ ɪ m ɐ s,V T T V T V R V R V S,V C C V C V C V C V C
+lit-445_misfortune-1,445_misfortune,nelaimė,n ɛ lˠ aˑ j ɪ m eː,R V R V R V R V,C V C V C V C V
+lit-446_fault-1,446_fault,kaltė,k ɐ lˠ t eː,T V R T V,C V C C V
+lit-447_age-1,447_age,amžius,aˑ m ʒʲ ɪ ʊ s,V R S V V S,V C C V V C
+lit-448_end-1,448_end,pabaiga,p ɐ b ɐɪˑ g ɑ,T V T V T V,C V C V C V
+lit-449_time-1,449_time,laikas,lˠ ɐɪˑ k ɐ s,R V T V S,C V C V C
+lit-450_day-1,450_day,diena,d i ə n ɑ,T V V R V,C V V C V
+lit-451_morning-1,451_morning,rytas,r iː t ɐ s,R V T V S,C V C V C
+lit-452_noon-1,452_noon,vidurdienis,ʋʲ ɪ d ʊ r d i ə nʲ ɪ s,R V T V R T V V R V S,C V C V C C V V C V C
+lit-453_evening-1,453_evening,vakaras,ʋ a k ɐ r ɐ s,R V T V R V S,C V C V C V C
+lit-454_night-1,454_night,naktis,n ɐ k tʲ ɪ s,R V T T V S,C V C C V C
+lit-455_week-1,455_week,savaitė,s ɐ ʋ aˑ j ɪ t eː,S V R V R V T V,C V C V C V C V
+lit-456_month-1,456_month,mėnuo,m eː n uə,R V R V,C V C V
+lit-457_year-1,457_year,metai,m ɛ t ɐɪˑ,R V T V,C V C V
+lit-458_spring-1,458_spring,pavasaris,p ɐ ʋ a s ɐ rʲ ɪ s,T V R V S V R V S,C V C V C V C V C
+lit-459_summer-1,459_summer,vasara,ʋ a s ɐ r ɐ,R V S V R V,C V C V C V
+lit-460_autumn-1,460_autumn,ruduo,r ʊ d uə,R V T V,C V C V
+lit-461_winter-1,461_winter,žiema,ʒ i ə m ɑ,S V V R V,C V V C V
+lit-462_january-1,462_january,sausis,s ɒʊˑ sʲ ɪ s,S V S V S,C V C V C
+lit-463_february-1,463_february,vasaris,ʋ ɐ s a rʲ ɪ s,R V S V R V S,C V C V C V C
+lit-464_march-1,464_march,kovas,k oː ʋ ɐ s,T V R V S,C V C V C
+lit-465_april-1,465_april,balandis,b ɐ lˠ ɐ nˑ dʲ ɪ s,T V R V R T V S,C V C V C C V C
+lit-466_may-1,466_may,gegužė,g ɛ g ʊ ʒ eː,T V T V S V,C V C V C V
+lit-467_june-1,467_june,birželis,bʲ ɪ r ʒ ɛ lʲ ɪ s,T V R S V R V S,C V C C V C V C
+lit-468_july-1,468_july,liepa,lˠ i ə p ɐ,R V V T V,C V V C V
+lit-469_august-1,469_august,rugpjūtis,r ʊ g p j uː tʲ ɪ s,R V T T R V T V S,C V C C C V C V C
+lit-470_september-1,470_september,rugsėjis,r ʊ g s eː j ɪ s,R V T S V R V S,C V C C V C V C
+lit-471_october-1,471_october,spalis,s p a lʲ ɪ s,S T V R V S,C C V C V C
+lit-472_november-1,472_november,lapkritis,lˠ a p k rʲ ɪ tʲ ɪ s,R V T T R V T V S,C V C C C V C V C
+lit-473_december-1,473_december,gruodis,g r u ə dʲ ɪ s,T R V V T V S,C C V V C V C
+lit-474_monday-1,474_monday,pirmadienis,pʲ ɪ r m a d i ə nʲ ɪ s,T V R R V T V V R V S,C V C C V C V V C V C
+lit-475_tuesday-1,475_tuesday,antradienis,ɐ n t r a d i ə nʲ ɪ s,V R T R V T V V R V S,V C C C V C V V C V C
+lit-476_wednesday-1,476_wednesday,trečiadienis,t r ɛ tʃʲ ɪ a d i ə nʲ ɪ s,T R V X V V T V V R V S,C C V C V V C V V C V C
+lit-477_thursday-1,477_thursday,ketvirtadienis,k ɛ t ʋʲ ɪ r t a d i ə nʲ ɪ s,T V T R V R T V T V V R V S,C V C C V C C V C V V C V C
+lit-478_friday-1,478_friday,penktadienis,p ɛ n k t a d i ə nʲ ɪ s,T V R T T V T V V R V S,C V C C C V C V V C V C
+lit-479_saturday-1,479_saturday,šeštadienis,ʃ ɛ ʃ t a d i ə nʲ ɪ s,S V S T V T V V R V S,C V C C V C V V C V C
+lit-480_sunday-1,480_sunday,sekmadienis,s ɛ k m a d i ə nʲ ɪ s,S V T R V T V V R V S,C V C C V C V V C V C
+lit-481_big-1,481_big,didis,dʲ ɪ dʲ ɪ s,T V T V S,C V C V C
+lit-481_big-2,481_big,didelis,dʲ ɪ d ɛ lʲ ɪ s,T V T V R V S,C V C V C V C
+lit-482_little-1,482_little,mažas,m a ʒ ɐ s,R V S V S,C V C V C
+lit-483_long-1,483_long,ilgas,ɪ lˠ g ɐ s,V R T V S,V C C V C
+lit-484_short-1,484_short,trumpas,t r ʊ mˑ p ɐ s,T R V R T V S,C C V C C V C
+lit-485_wide-1,485_wide,platus,p lˠ ɐ t ʊ s,T R V T V S,C C V C V C
+lit-486_narrow-1,486_narrow,smulkus,s m ʊ lˠ k ʊ s,S R V R T V S,C C V C C V C
+lit-487_dense-1,487_dense,tankus,t aˑ n k ʊ s,T V R T V S,C V C C V C
+lit-488_thick-1,488_thick,storas,s t oː r ɐ s,S T V R V S,C C V C V C
+lit-489_thin-1,489_thin,plonas,p lˠ oː n ɐ s,T R V R V S,C C V C V C
+lit-490_delicatefine-1,490_delicatefine,smulkus,s m ʊ lˠ k ʊ s,S R V R T V S,C C V C C V C
+lit-491_firmsolid-1,491_firmsolid,kietas,k i ə t ɐ s,T V V T V S,C V V C V C
+lit-491_firmsolid-2,491_firmsolid,tvirtas,t ʋʲ ɪ r t ɐ s,T R V R T V S,C C V C C V C
+lit-492_flat-1,492_flat,lėkštas,lˠ eː k ʃ t ɐ s,R V T S T V S,C V C C C V C
+lit-492_flat-2,492_flat,plokščias,p lˠ oː k ʃ tʃʲ ɛ s,T R V T S X V S,C C V C C C V C
+lit-493_smooth-1,493_smooth,slidus,s lʲ ɪ d ʊ s,S R V T V S,C C V C V C
+lit-494_hard-1,494_hard,kietas,k i ə t ɐ s,T V V T V S,C V V C V C
+lit-495_soft-1,495_soft,minkštas,mʲ ɪ n k ʃ t ɐ s,R V R T S T V S,C V C C C C V C
+lit-496_round-1,496_round,apvalus,ɐ p ʋ ɐ lˠ ʊ s,V T R V R V S,V C C V C V C
+lit-496_round-2,496_round,apskritas,a p s k rʲ ɪ t ɐ s,V T S T R V T V S,V C C C C V C V C
+lit-497_pointed-1,497_pointed,aštrus,ɐ ʃ t r ʊ s,V S T R V S,V C C C V C
+lit-497_pointed-2,497_pointed,smailus,s m ɐɪˑ lˠ ʊ s,S R V R V S,C C V C V C
+lit-498_sharp-1,498_sharp,aštrus,ɐ ʃ t r ʊ s,V S T R V S,V C C C V C
+lit-499_blunt-1,499_blunt,bukas,b ʊ k ɐ s,T V T V S,C V C V C
+lit-499_blunt-2,499_blunt,atšipęs,ɐ t ʃʲ ɪ p æː s,V T S V T V S,V C C V C V C
+lit-500_heavy-1,500_heavy,sunkus,s ʊ n k ʊ s,S V R T V S,C V C C V C
+lit-501_beautiful-1,501_beautiful,gražus,g r ɐ ʒ ʊ s,T R V S V S,C C V C V C
+lit-502_hot-1,502_hot,karštas,k aˑ r ʃ t ɐ s,T V R S T V S,C V C C C V C
+lit-503_warm-1,503_warm,šiltas,ʃʲ ɪ lˠˑ t ɐ s,S V R T V S,C V C C V C
+lit-504_cold-1,504_cold,šaltas,ʃ aˑ lˠ t ɐ s,S V R T V S,C V C C V C
+lit-505_cool-1,505_cool,vėsus,ʋ eː s ʊ s,R V S V S,C V C V C
+lit-505_cool-2,505_cool,bejausmis,b ɛ j ɒʊˑ s mʲ ɪ s,T V R V S R V S,C V C V C C V C
+lit-506_fresh-1,506_fresh,šviežias,ʃ ʋ i ə ʒʲ ɛ s,S R V V S V S,C C V V C V C
+lit-507_damp-1,507_damp,drėgnas,d r eː g n ɐ s,T R V T R V S,C C V C C V C
+lit-508_wet-1,508_wet,šlapias,ʃ lˠ a pʲ ɛ s,S R V T V S,C C V C V C
+lit-509_dry-1,509_dry,sausas,s ɒʊˑ s ɐ s,S V S V S,C V C V C
+lit-510_full-1,510_full,pilnas,pʲ ɪ lˠ n ɐ s,T V R R V S,C V C C V C
+lit-511_empty-1,511_empty,tuščias,t ʊ ʃ tʃʲ ɛ s,T V S X V S,C V C C V C
+lit-512_open-1,512_open,atviras,a t ʋʲ ɪ r ɐ s,V T R V R V S,V C C V C V C
+lit-513_closed-1,513_closed,uždaras,ʊ ʒ d ɐ r ɐ s,V S T V R V S,V C C V C V C
+lit-513_closed-2,513_closed,uždarytas,ʊ ʒ d ɐ r iː t ɐ s,V S T V R V T V S,V C C V C V C V C
+lit-514_clean-1,514_clean,švarus,ʃ ʋ ɐ r ʊ s,S R V R V S,C C V C V C
+lit-515_dirty-1,515_dirty,nešvarus,n ɛ ʃ ʋ ɐ r ʊ s,R V S R V R V S,C V C C V C V C
+lit-515_dirty-2,515_dirty,purvinas,p ʊ rˑ ʋʲ ɪ n ɐ s,T V R R V R V S,C V C C V C V C
+lit-516_raw-1,516_raw,žalias,ʒ a lʲ ɛ s,S V R V S,C V C V C
+lit-517_ripe-1,517_ripe,prinokęs,p rʲ ɪ n oː k æː s,T R V R V T V S,C C V C V C V C
+lit-517_ripe-2,517_ripe,pribrendęs,p rʲ ɪ b r eˑ n d æː s,T R V T R V R T V S,C C V C C V C C V C
+lit-518_delicious-1,518_delicious,gardus,g ɐ r d ʊ s,T V R T V S,C V C C V C
+lit-519_sweet-1,519_sweet,saldus,s ɐ lˠ d ʊ s,S V R T V S,C V C C V C
+lit-520_bitter-1,520_bitter,kartus,k ɐ r t ʊ s,T V R T V S,C V C C V C
+lit-521_sour-1,521_sour,gižus,gʲ ɪ ʒ ʊ s,T V S V S,C V C V C
+lit-521_sour-2,521_sour,rūgštus,r uː g ʃ t ʊ s,R V T S T V S,C V C C C V C
+lit-522_bright-1,522_bright,šviesus,ʃ ʋ i ə s ʊ s,S R V V S V S,C C V V C V C
+lit-522_bright-2,522_bright,skaistus,s k ɐɪˑ s t ʊ s,S T V S T V S,C C V C C V C
+lit-523_dark-1,523_dark,tamsus,t ɐ m s ʊ s,T V R S V S,C V C C V C
+lit-524_black-1,524_black,juodas,j u ə d ɐ s,R V V T V S,C V V C V C
+lit-525_white-1,525_white,baltas,b aˑ lˠ t ɐ s,T V R T V S,C V C C V C
+lit-526_red-1,526_red,raudonas,r ɒʊˑ d oː n ɐ s,R V T V R V S,C V C V C V C
+lit-527_yellow-1,527_yellow,geltonas,g ɛ lˠ t oː n ɐ s,T V R T V R V S,C V C C V C V C
+lit-528_blue-1,528_blue,mėlynas,m eː lʲ iː n ɐ s,R V R V R V S,C V C V C V C
+lit-529_green-1,529_green,žalias,ʒ a lʲ ɛ s,S V R V S,C V C V C
+lit-530_grey-1,530_grey,pilkas,pʲ ɪ lˠ k ɐ s,T V R T V S,C V C C V C
+lit-531_colourful-1,531_colourful,margas,m aˑ r g ɐ s,R V R T V S,C V C C V C
+lit-531_colourful-2,531_colourful,spalvotas,s p ɐ lˠ ʋ oː t ɐ s,S T V R R V T V S,C C V C C V C V C
+lit-532_cheap-1,532_cheap,pigus,pʲ ɪ g ʊ s,T V T V S,C V C V C
+lit-533_expensive-1,533_expensive,brangus,b r ɐ n g ʊ s,T R V R T V S,C C V C C V C
+lit-534_precious-1,534_precious,vertingas,ʋ ɛ r tʲ ɪ n g ɐ s,R V R T V R T V S,C V C C V C C V C
+lit-535_blind-1,535_blind,aklas,a k lˠ ɐ s,V T R V S,V C C V C
+lit-536_deaf-1,536_deaf,kurčias,k ʊ rˑ tʃʲ ɛ s,T V R X V S,C V C C V C
+lit-537_powerful-1,537_powerful,stiprus,s tʲ ɪ p r ʊ s,S T V T R V S,C C V C C V C
+lit-538_strong-1,538_strong,stiprus,s tʲ ɪ p r ʊ s,S T V T R V S,C C V C C V C
+lit-539_weak-1,539_weak,silpnas,sʲ ɪ lˠˑ p n ɐ s,S V R T R V S,C V C C C V C
+lit-540_fat-1,540_fat,riebus,r i ə b ʊ s,R V V T V S,C V V C V C
+lit-541_slim-1,541_slim,laibas,lˠ aˑ j ɪ b ɐ s,R V R V T V S,C V C V C V C
+lit-541_slim-2,541_slim,lieknas,lˠ i ə k n ɐ s,R V V T R V S,C V V C C V C
+lit-542_pretty-1,542_pretty,gražus,g r ɐ ʒ ʊ s,T R V S V S,C C V C V C
+lit-543_evil-1,543_evil,blogas,b lˠ oː g ɐ s,T R V T V S,C C V C V C
+lit-544_stupid-1,544_stupid,paikas,p ɐɪˑ k ɐ s,T V T V S,C V C V C
+lit-544_stupid-2,544_stupid,kvailas,k ʋ ɐɪˑ lˠ ɐ s,T R V R V S,C C V C V C
+lit-545_lazy-1,545_lazy,tingus,tʲ ɪ n g ʊ s,T V R T V S,C V C C V C
+lit-546_diligent-1,546_diligent,stropus,s t r o p ʊ s,S T R V T V S,C C C V C V C
+lit-546_diligent-2,546_diligent,kruopštus,k r uə p ʃ t ʊ s,T R V T S T V S,C C V C C C V C
+lit-547_stingy-1,547_stingy,šykštus,ʃʲ iː k ʃ t ʊ s,S V T S T V S,C V C C C V C
+lit-548_clever-1,548_clever,sumanus,s ʊ m ɐ n ʊ s,S V R V R V S,C V C V C V C
+lit-548_clever-2,548_clever,protingas,p r o tʲ ɪ n g ɐ s,T R V T V R T V S,C C V C V C C V C
+lit-549_skilful-1,549_skilful,apsukrus,ɐ p s ʊ k r ʊ s,V T S V T R V S,V C C V C C V C
+lit-550_dear-1,550_dear,mielas,m i ə lˠ ɐ s,R V V R V S,C V V C V C
+lit-551_merry-1,551_merry,smagus,s m ɐ g ʊ s,S R V T V S,C C V C V C
+lit-551_merry-2,551_merry,linksmas,lʲ ɪ nˑ k s m ɐ s,R V R T S R V S,C V C C C C V C
+lit-552_gentle-1,552_gentle,švelnus,ʃ ʋ ɛ lˠ n ʊ s,S R V R R V S,C C V C C V C
+lit-552_gentle-2,552_gentle,minkštas,mʲ ɪ n k ʃ t ɐ s,R V R T S T V S,C V C C C C V C
+lit-553_hungry-1,553_hungry,alkanas,aˑ lˠ k ɐ n ɐ s,V R T V R V S,V C C V C V C
+lit-554_sickill-1,554_sickill,ligotas,lʲ ɪ g oː t ɐ s,R V T V T V S,C V C V C V C
+lit-554_sickill-2,554_sickill,sergantis,s ɛ rˑ g ɐ n tʲ ɪ s,S V R T V R T V S,C V C C V C C V C
+lit-555_naked-1,555_naked,nuogas,n u ə g ɐ s,R V V T V S,C V V C V C
+lit-556_sad-1,556_sad,liūdnas,lʲ ɪ uː d n ɐ s,R V V T R V S,C V V C C V C
+lit-557_living-1,557_living,gyvas,g iː ʋ ɐ s,T V R V S,C V C V C
+lit-558_good-1,558_good,geras,g ɛ r ɐ s,T V R V S,C V C V C
+lit-559_bad-1,559_bad,blogas,b lˠ oː g ɐ s,T R V T V S,C C V C V C
+lit-559_bad-2,559_bad,prastas,p r a s t ɐ s,T R V S T V S,C C V C C V C
+lit-560_correct-1,560_correct,tikras,tʲ ɪ k r ɐ s,T V T R V S,C V C C V C
+lit-560_correct-2,560_correct,teisingas,t ɛɪˑ sʲ ɪ n g ɐ s,T V S V R T V S,C V C V C C V C
+lit-561_nastydire-1,561_nastydire,blogas,b lˠ oː g ɐ s,T R V T V S,C C V C V C
+lit-561_nastydire-2,561_nastydire,prastas,p r a s t ɐ s,T R V S T V S,C C V C C V C
+lit-562_true-1,562_true,tikras,tʲ ɪ k r ɐ s,T V T R V S,C V C C V C
+lit-563_old-1,563_old,senas,s ɛ n ɐ s,S V R V S,C V C V C
+lit-564_new-1,564_new,naujas,n ɒʊˑ j ɐ s,R V R V S,C V C V C
+lit-565_former-1,565_former,buvęs,b ʊ ʋ æː s,T V R V S,C V C V C
+lit-566_agedold-1,566_agedold,pagyvenęs,p ɐ gʲ iː ʋ ɛ n æː s,T V T V R V R V S,C V C V C V C V C
+lit-567_young-1,567_young,jaunas,j aˑ ʊ n ɐ s,R V V R V S,C V V C V C
+lit-568_poor-1,568_poor,neturtingas,n ɛ t ʊ r tʲ ɪ n g ɐ s,R V T V R T V R T V S,C V C V C C V C C V C
+lit-569_rich-1,569_rich,turtingas,t ʊ r tʲ ɪ n g ɐ s,T V R T V R T V S,C V C C V C C V C
+lit-570_familiar-1,570_familiar,žinomas,ʒʲ ɪ n o m ɐ s,S V R V R V S,C V C V C V C
+lit-570_familiar-2,570_familiar,pažįstamas,p ɐ ʒʲ iː s t ɐ m ɐ s,T V S V S T V R V S,C V C V C C V C V C
+lit-571_famous-1,571_famous,žymus,ʒʲ iː m ʊ s,S V R V S,C V C V C
+lit-571_famous-2,571_famous,garsus,g ɐ r s ʊ s,T V R S V S,C V C C V C
+lit-572_foreign-1,572_foreign,svetimas,s ʋ ɛ tʲ ɪ m ɐ s,S R V T V R V S,C C V C V C V C
+lit-573_different-1,573_different,įvairus,j iː ʋ ɐɪˑ r ʊ s,R V R V R V S,C V C V C V C
+lit-574_near-1,574_near,artimas,ɐ rˑ tʲ ɪ m ɐ s,V R T V R V S,V C C V C V C
+lit-575_far-1,575_far,tolimas,t oː lʲ ɪ m ɐ s,T V R V R V S,C V C V C V C
+lit-576_left-1,576_left,kairys,k ɐɪˑ r iː s,T V R V S,C V C V C
+lit-577_right-1,577_right,dešinys,d ɛ ʃʲ ɪ n iː s,T V S V R V S,C V C V C V C
+lit-578_other-1,578_other,kitas,kʲ ɪ t ɐ s,T V T V S,C V C V C
+lit-579_first-1,579_first,pirmas,pʲ ɪ rˑ m ɐ s,T V R R V S,C V C C V C
+lit-580_second-1,580_second,antras,ɐ nˑ t r ɐ s,V R T R V S,V C C C V C
+lit-581_third-1,581_third,trečias,t r ɛ tʃʲ ɛ s,T R V X V S,C C V C V C
+lit-582_last-1,582_last,paskutinis,p ɐ s k ʊ tʲ ɪ nʲ ɪ s,T V S T V T V R V S,C V C C V C V C V C
+lit-583_alone-1,583_alone,vienas,ʋ i ə n ɐ s,R V V R V S,C V V C V C
+lit-584_atonce-1,584_atonce,iš karto,ɪ ʃ + k ɐ rˑ t o,V S X T V R T V,V C X C V C C V
+lit-585_together-1,585_together,kartu,k ɐ r t ʊ,T V R T V,C V C C V
+lit-585_together-2,585_together,drauge,d r ɒʊˑ g ɛ,T R V T V,C C V C V
+lit-586_long-1,586_long,ilgai,ɪ lˠ g ɐɪˑ,V R T V,V C C V
+lit-587_suddenly-1,587_suddenly,staiga,s t ɐɪˑ g ɑ,S T V T V,C C V C V
+lit-588_instantly-1,588_instantly,tuojau,t uə j ɒʊˑ,T V R V,C V C V
+lit-589_later-1,589_later,vėliau,ʋ eː lʲ ɛʊˑ,R V R V,C V C V
+lit-589_later-2,589_later,paskiau,p ɐ s kʲ ɛʊˑ,T V S T V,C V C C V
+lit-590_now-1,590_now,dabãr,d ɐ b ɐ r,T V T V R,C V C V C
+lit-591_today-1,591_today,šiandien,ʃʲ ɛ nˑ d i ə n,S V R T V V R,C V C C V V C
+lit-592_tomorrow-1,592_tomorrow,rytoj,rʲ iː t oː j,R V T V R,C V C V C
+lit-593_soon-1,593_soon,greitai,g r ɛɪˑ t ɐɪˑ,T R V T V,C C V C V
+lit-593_soon-2,593_soon,netrukus,n ɛ t r ʊ k ʊ s,R V T R V T V S,C V C C V C V C
+lit-594_then-1,594_then,po to,p o + t oː,T V X T V,C V X C V
+lit-595_yesterday-1,595_yesterday,vakar,ʋ a k ɐ r,R V T V R,C V C V C
+lit-596_once-1,596_once,kadaise,k ɐ d aˑ j ɪ s ɛ,T V T V R V S V,C V C V C V C V
+lit-596_once-2,596_once,kitą kartą,kʲ ɪ t ɑː + k ɐ rˑ t ɑː,T V T V X T V R T V,C V C V X C V C C V
+lit-597_atthattime-1,597_atthattime,anuomet,ɐ n uə m ɛ t,V R V R V T,V C V C V C
+lit-597_atthattime-2,597_atthattime,anuokart,ɐ n uə k ɐ r t,V R V T V R T,V C V C V C C
+lit-598_afterwards-1,598_afterwards,po to,p o + t oː,T V X T V,C V X C V
+lit-598_afterwards-2,598_afterwards,paskui,p ɐ s k ʊɪˑ,T V S T V,C V C C V
+lit-599_before-1,599_before,anksčiau,ɐ n k s tʃʲ ɛʊˑ,V R T S X V,V C C C C V
+lit-600_atfirst-1,600_atfirst,pirma,pʲ ɪ r m ɑ,T V R R V,C V C C V
+lit-600_atfirst-2,600_atfirst,iš pradžių̃,ɪ ʃ + p r ɐ d ʒʲ ɪ uː,V S X T R V T S V V,V C X C C V C C V V
+lit-601_once-1,601_once,kartą,k ɐ rˑ t ɑː,T V R T V,C V C C V
+lit-601_once-2,601_once,vieną kartą,ʋ i ə n ɑː + k ɐ rˑ t ɑː,R V V R V X T V R T V,C V V C V X C V C C V
+lit-602_sometimes-1,602_sometimes,kai kada,k ɐɪˑ + k ɐ d ɑ,T V X T V T V,C V X C V C V
+lit-603_often-1,603_often,dažnai,d ɐ ʒ n ɐɪˑ,T V S R V,C V C C V
+lit-604_always-1,604_always,visada,ʋʲ ɪ s ɐ d ɑ,R V S V T V,C V C V C V
+lit-604_always-2,604_always,visuomet,ʋʲ ɪ s uə m ɛ t,R V S V R V T,C V C V C V C
+lit-605_never-1,605_never,niekada,n i ə k ɐ d ɑ,R V V T V T V,C V V C V C V
+lit-605_never-2,605_never,niekuomet,n i ə k uə m ɛ t,R V V T V R V T,C V V C V C V C
+lit-606_here-1,606_here,čia,tʃʲ ɛ,X V,C V
+lit-607_hither-1,607_hither,šen,ʃ ɛ nˑ,S V R,C V C
+lit-607_hither-2,607_hither,čionai,tʃʲ ɪ o n ɐɪˑ,X V V R V,C V V C V
+lit-608_hence-1,608_hence,iš čia,ɪ ʃ + tʃʲ ɛ,V S X X V,V C X C V
+lit-609_there-1,609_there,ten,t ɛ nˑ,T V R,C V C
+lit-609_there-2,609_there,tenai,t ɛ n ɐɪˑ,T V R V,C V C V
+lit-610_thither-1,610_thither,ten,t ɛ nˑ,T V R,C V C
+lit-610_thither-2,610_thither,ten link,t ɛ nˑ + lʲ ɪ n k,T V R X R V R T,C V C X C V C C
+lit-611_ahead-1,611_ahead,tiesiai,t i ə sʲ ɛɪˑ,T V V S V,C V V C V
+lit-612_forward-1,612_forward,pirmyn,pʲ ɪ r m iː n,T V R R V R,C V C C V C
+lit-613_backward-1,613_backward,atbulai,ɐ t b ʊ lˠ ɐɪˑ,V T T V R V,V C C V C V
+lit-614_back-1,614_back,atgal,ɐ t g ɐ lˠˑ,V T T V R,V C C V C
+lit-615_below-1,615_below,žemai,ʒ ɛ m ɐɪˑ,S V R V,C V C V
+lit-615_below-2,615_below,apačioje,ɐ p ɐ tʃʲ ɪ o j ɛ,V T V X V V R V,V C V C V V C V
+lit-616_down-1,616_down,žemyn,ʒ ɛ m iː n,S V R V R,C V C V C
+lit-617_above-1,617_above,viršuj,ʋʲ ɪ r ʃ ʊ j,R V R S V R,C V C C V C
+lit-618_up-1,618_up,aukštyn,ɒʊˑ k ʃ t iː n,V T S T V R,V C C C V C
+lit-618_up-2,618_up,į viršų,j iː + ʋʲ ɪ rˑ ʃ uː,R V X R V R S V,C V X C V C C V
+lit-619_everywhere-1,619_everywhere,visur,ʋʲ ɪ s ʊ rˑ,R V S V R,C V C V C
+lit-620_not-1,620_not,ne,n ɛ,R V,C V
+lit-621_alittle-1,621_alittle,truputį,t r ʊ p ʊ tʲ iː,T R V T V T V,C C V C V C V
+lit-622_hardly-1,622_hardly,vos,ʋ oː s,R V S,C V C
+lit-623_very-1,623_very,labai,lˠ ɐ b ɐɪˑ,R V T V,C V C V
+lit-623_very-2,623_very,baisiai,b ɐɪˑ sʲ ɛɪˑ,T V S V,C V C V
+lit-624_so-1,624_so,taip,t ɐɪˑ p,T V T,C V C
+lit-625_still-1,625_still,dar,d aˑ r,T V R,C V C
+lit-626_only-1,626_only,tik,tʲ ɪ k,T V T,C V C
+lit-626_only-2,626_only,vien,ʋ i ə n,R V V R,C V V C
+lit-627_already-1,627_already,jau,j ɒʊˑ,R V,C V
+lit-628_again-1,628_again,vėl,ʋ eː lˠ,R V R,C V C
+lit-628_again-2,628_again,iš naujo,ɪ ʃ + n ɒʊˑ j o,V S X R V R V,V C X C V C V
+lit-629_invain-1,629_invain,veltui,ʋ eˑ lˠ t ʊɪˑ,R V R T V,C V C C V
+lit-629_invain-2,629_invain,bergždžiai,b ɛ r g ʒ d ʒʲ ɛɪˑ,T V R T S T S V,C V C C C C C V
+lit-630_infrontof-1,630_infrontof,prieš,p r i ə ʃ,T R V V S,C C V V C
+lit-631_behind-1,631_behind,už,ʊ ʒ,V S,V C
+lit-632_under-1,632_under,po,p oː,T V,C V
+lit-633_through-1,633_through,pro,p r oː,T R V,C C V
+lit-633_through-2,633_through,per,p ɛ rˑ,T V R,C V C
+lit-634_nextto-1,634_nextto,prie,p r i ə,T R V V,C C V V
+lit-634_nextto-2,634_nextto,šalia,ʃ ɐ lʲ ɛ,S V R V,C V C V
+lit-635_between-1,635_between,tarp,t ɐ rˑ p,T V R T,C V C C
+lit-636_becauseof-1,636_becauseof,dėl,d eː lˠ,T V R,C V C
+lit-636_becauseof-2,636_becauseof,dėlei,d eː lˠ ɛɪˑ,T V R V,C V C V
+lit-637_this-1,637_this,šis,ʃʲ ɪ s,S V S,C V C
+lit-637_this-2,637_this,šitas,ʃʲ ɪ t ɐ s,S V T V S,C V C V C
+lit-638_that-1,638_that,tat,t ɑ t,T V T,C V C
+lit-639_everything-1,639_everything,visas,ʋʲ ɪ s ɐ s,R V S V S,C V C V C
+lit-640_i-1,640_i,aš,ɑ ʃ,V S,V C
+lit-641_thou-1,641_thou,tu,t ʊ,T V,C V
+lit-642_he-1,642_he,jis,j ɪ s,R V S,C V C
+lit-643_we-1,643_we,mes,m ɛ s,R V S,C V C
+lit-644_you-1,644_you,jūs,j uː s,R V S,C V C
+lit-645_they-1,645_they,ji,j ɪ,R V,C V
+lit-645_they-2,645_they,jos,j oː s,R V S,C V C
+lit-646_what-1,646_what,kas,k ɑ s,T V S,C V C
+lit-647_who-1,647_who,kas,k ɑ s,T V S,C V C
+lit-648_where-1,648_where,kur,k ʊ rˑ,T V R,C V C
+lit-649_whereto-1,649_whereto,kur,k ʊ rˑ,T V R,C V C
+lit-649_whereto-2,649_whereto,kur link,k ʊ rˑ + lʲ ɪ nˑ k,T V R X R V R T,C V C X C V C C
+lit-650_how-1,650_how,kaip,k ɐɪˑ p,T V T,C V C
+lit-651_why-1,651_why,kod̃ėl,k o d eː lˠ,T V T V R,C V C V C
+lit-651_why-2,651_why,dėl ko,d eː lˠ + k oː,T V R X T V,C V C X C V
+lit-652_howmuch-1,652_howmuch,kiek,k i ə k,T V V T,C V V C
+lit-653_one-1,653_one,vienas,ʋ i ə n ɐ s,R V V R V S,C V V C V C
+lit-654_two-1,654_two,du,d ʊ,T V,C V
+lit-655_three-1,655_three,trys,t r iː s,T R V S,C C V C
+lit-656_four-1,656_four,keturi,k ɛ t ʊ rʲ ɪ,T V T V R V,C V C V C V
+lit-657_five-1,657_five,penki,p ɛ n kʲ ɪ,T V R T V,C V C C V
+lit-658_six-1,658_six,šeši,ʃ ɛ ʃʲ ɪ,S V S V,C V C V
+lit-659_seven-1,659_seven,septyni,s ɛ p tʲ iː nʲ ɪ,S V T T V R V,C V C C V C V
+lit-660_eight-1,660_eight,aštuoni,ɐ ʃ t uə nʲ ɪ,V S T V R V,V C C V C V
+lit-661_nine-1,661_nine,devyni,d ɛ ʋʲ iː nʲ ɪ,T V R V R V,C V C V C V
+lit-662_ten-1,662_ten,dešimt,d ɛ ʃʲ ɪ m t,T V S V R T,C V C V C C
+lit-663_eleven-1,663_eleven,vienuolika,ʋ i ə n u ə lʲ ɪ k ɐ,R V V R V V R V T V,C V V C V V C V C V
+lit-664_twelve-1,664_twelve,dvylika,d ʋ iː lʲ ɪ k ɐ,T R V R V T V,C C V C V C V
+lit-665_twenty-1,665_twenty,dvidešimt,d ʋʲ ɪ d ɛ ʃʲ ɪ m t,T R V T V S V R T,C C V C V C V C C
+lit-666_thirty-1,666_thirty,trisdešimt,t rʲ ɪ s d ɛ ʃʲ ɪ m t,T R V S T V S V R T,C C V C C V C V C C
+lit-667_forty-1,667_forty,keturiasdešimt,k ɛ t ʊ rʲ ɛ s d ɛ ʃʲ ɪ m t,T V T V R V S T V S V R T,C V C V C V C C V C V C C
+lit-668_fifty-1,668_fifty,penkiasdešimt,p ɛ nˑ kʲ ɛ s d ɛ ʃʲ ɪ m t,T V R T V S T V S V R T,C V C C V C C V C V C C
+lit-669_sixty-1,669_sixty,šešiasdešimt,ʃ ɛ ʃʲ ɛ s d ɛ ʃʲ ɪ m t,S V S V S T V S V R T,C V C V C C V C V C C
+lit-670_seventy-1,670_seventy,septyniasdešimt,s ɛ p t iː nʲ ɛ s d ɛ ʃʲ ɪ m t,S V T T V R V S T V S V R T,C V C C V C V C C V C V C C
+lit-671_eighty-1,671_eighty,aštuoniasdešimt,ɐ ʃ t u ə nʲ ɛ s d ɛ ʃʲ ɪ m t,V S T V V R V S T V S V R T,V C C V V C V C C V C V C C
+lit-672_ninety-1,672_ninety,devyniasdešimt,d ɛ ʋ iː nʲ ɛ s d ɛ ʃʲ ɪ m t,T V R V R V S T V S V R T,C V C V C V C C V C V C C
+lit-673_ahundred-1,673_ahundred,šimtas,ʃʲ ɪ mˑ t ɐ s,S V R T V S,C V C C V C
+lit-674_athousand-1,674_athousand,tūkstantis,t uː k s t ɐ n tʲ ɪ s,T V T S T V R T V S,C V C C C V C C V C
+lit-675_and-1,675_and,ĩr,ɪ r,V R,V C
+lit-676_or-1,676_or,ar,ɐ rˑ,V R,V C
+lit-676_or-2,676_or,arba,ɐ r b ɑ,V R T V,V C C V
+lit-677_stand-1,677_stand,stovėti,s t o ʋ eː tʲ ɪ,S T V R V T V,C C V C V C V
+lit-678_sit-1,678_sit,sėdėti,s eː d eː tʲ ɪ,S V T V T V,C V C V C V
+lit-679_lie-1,679_lie,gulėti,g ʊ lˠ eː tʲ ɪ,T V R V T V,C V C V C V
+lit-680_hang-1,680_hang,kyboti,k iː b o tʲ ɪ,T V T V T V,C V C V C V
+lit-680_hang-2,680_hang,kabėti,k ɐ b eː tʲ ɪ,T V T V T V,C V C V C V
+lit-681_become-1,681_become,taptis,t ɑ p tʲ ɪ s,T V T T V S,C V C C V C
+lit-681_become-2,681_become,darytis,d ɐ r iː tʲ ɪ s,T V R V T V S,C V C V C V C
+lit-682_happen-1,682_happen,atsitikti,ɐ t sʲ ɪ tʲ ɪ k tʲ ɪ,V T S V T V T T V,V C C V C V C C V
+lit-682_happen-2,682_happen,pasitaikyti,p ɐ sʲ ɪ t aˑ j ɪ kʲ iː tʲ ɪ,T V S V T V R V T V T V,C V C V C V C V C V C V
+lit-683_begin-1,683_begin,prasid́ėti,p r ɐ sʲ ɪ d eː tʲ ɪ,T R V S V T V T V,C C V C V C V C V
+lit-684_end-1,684_end,baigtis,b ɐɪˑ g tʲ ɪ s,T V T T V S,C V C C V C
+lit-685_change-1,685_change,keistis,k ɛɪˑ s tʲ ɪ s,T V S T V S,C V C C V C
+lit-685_change-2,685_change,pasikeisti,p ɐ sʲ ɪ k ɛɪˑ s tʲ ɪ,T V S V T V S T V,C V C V C V C C V
+lit-686_rise-1,686_rise,tekėti,t ɛ k eː tʲ ɪ,T V T V T V,C V C V C V
+lit-686_rise-2,686_rise,patekėti,p ɐ t ɛ k eː tʲ ɪ,T V T V T V T V,C V C V C V C V
+lit-687_set-1,687_set,leistis,lˠ æˑ j ɪ s tʲ ɪ s,R V R V S T V S,C V C V C C V C
+lit-687_set-2,687_set,nusileisti,n ʊ sʲ ɪ lˠ æˑ j ɪ s tʲ ɪ,R V S V R V R V S T V,C V C V C V C V C C V
+lit-688_shine-1,688_shine,šviesti,ʃ ʋ i ə s tʲ ɪ,S R V V S T V,C C V V C C V
+lit-689_thunder-1,689_thunder,griausti,g rʲ ɪ aˑ ʊ s tʲ ɪ,T R V V V S T V,C C V V V C C V
+lit-689_thunder-2,689_thunder,griaudėti,g rʲ ɪ aˑ ʊ d eː tʲ ɪ,T R V V V T V T V,C C V V V C V C V
+lit-690_blow-1,690_blow,pūsti,p uː s tʲ ɪ,T V S T V,C V C C V
+lit-691_stream-1,691_stream,lietis,lˠ i ə tʲ ɪ s,R V V T V S,C V V C V C
+lit-691_stream-2,691_stream,plūsti,p lˠ uː s tʲ ɪ,T R V S T V,C C V C C V
+lit-692_flow-1,692_flow,tekėti,t ɛ k eː tʲ ɪ,T V T V T V,C V C V C V
+lit-693_revolve-1,693_revolve,suktis,s ʊ k tʲ ɪ s,S V T T V S,C V C C V C
+lit-693_revolve-2,693_revolve,pasisukti,p ɐ sʲ ɪ s ʊ k tʲ ɪ,T V S V S V T T V,C V C V C V C C V
+lit-694_sway-1,694_sway,svyruoti,s ʋʲ iː r u ə tʲ ɪ,S R V R V V T V,C C V C V V C V
+lit-695_swing-1,695_swing,suptis,s ʊ p tʲ ɪ s,S V T T V S,C V C C V C
+lit-696_fall-1,696_fall,pulti,p ʊ lˠ tʲ ɪ,T V R T V,C V C C V
+lit-696_fall-2,696_fall,kristi,k rʲ ɪ s tʲ ɪ,T R V S T V,C C V C C V
+lit-697_burn-1,697_burn,degti,d ɛ g tʲ ɪ,T V T T V,C V C C V
+lit-698_smoke-1,698_smoke,rūkyti,r uː k iː tʲ ɪ,R V T V T V,C V C V C V
+lit-699_rain-1,699_rain,lyti,lˠ iː tʲ ɪ,R V T V,C V C V
+lit-700_freeze-1,700_freeze,užšalti,ʊ ʒ ʃ aˑ lˠ tʲ ɪ,V S S V R T V,V C C V C C V
+lit-701_thaw-1,701_thaw,tirpti,tʲ ɪ rˑ p tʲ ɪ,T V R T T V,C V C C C V
+lit-702_melt-1,702_melt,lydytis,lˠ iː dʲ iː tʲ ɪ s,R V T V T V S,C V C V C V C
+lit-703_dry-1,703_dry,džiūti,d ʒʲ ɪ uː tʲ ɪ,T S V V T V,C C V V C V
+lit-704_boil-1,704_boil,virti,ʋʲ ɪ r tʲ ɪ,R V R T V,C V C C V
+lit-705_rot-1,705_rot,pūti,p uː tʲ ɪ,T V T V,C V C V
+lit-706_decay-1,706_decay,švinkti,ʃ ʋʲ ɪ n k tʲ ɪ,S R V R T T V,C C V C C C V
+lit-707_snap-1,707_snap,plyšti,p lˠ iː ʃ tʲ ɪ,T R V S T V,C C V C C V
+lit-707_snap-2,707_snap,trūkti,t r uː k tʲ ɪ,T R V T T V,C C V C C V
+lit-708_sink-1,708_sink,skę̃sti,s k æː s tʲ ɪ,S T V S T V,C C V C C V
+lit-708_sink-2,708_sink,grimzti,g rʲ ɪ mˑ z tʲ ɪ,T R V R S T V,C C V C C C V
+lit-709_pass-1,709_pass,praeiti,p r ɐ ɛɪˑ tʲ ɪ,T R V V T V,C C V V C V
+lit-710_appear-1,710_appear,pasirodyti,p ɐ sʲ ɪ r oː dʲ iː tʲ ɪ,T V S V R V T V T V,C V C V C V C V C V
+lit-711_disappear-1,711_disappear,dingti,dʲ ɪ nˑ g tʲ ɪ,T V R T T V,C V C C C V
+lit-711_disappear-2,711_disappear,išnykti,ɪ ʃ n iː k tʲ ɪ,V S R V T T V,V C C V C C V
+lit-711_disappear-3,711_disappear,pranykti,p r ɐ n iː k tʲ ɪ,T R V R V T T V,C C V C V C C V
+lit-712_dropdescend-1,712_dropdescend,kristi,k rʲ ɪ s tʲ ɪ,T R V S T V,C C V C C V
+lit-713_decrease-1,713_decrease,mažėti,m ɐ ʒ eː tʲ ɪ,R V S V T V,C V C V C V
+lit-713_decrease-2,713_decrease,silpnėti,sʲ ɪ lˠ p n eː tʲ ɪ,S V R T R V T V,C V C C C V C V
+lit-714_increase-1,714_increase,didėti,dʲ ɪ d eː tʲ ɪ,T V T V T V,C V C V C V
+lit-714_increase-2,714_increase,padaugėti,p ɐ d ɒʊˑ g eː tʲ ɪ,T V T V T V T V,C V C V C V C V
+lit-715_rise-1,715_rise,kilti,kʲ ɪ lˠ tʲ ɪ,T V R T V,C V C C V
+lit-716_grow-1,716_grow,augti,aˑ ʊ g tʲ ɪ,V V T T V,V V C C V
+lit-717_shine-1,717_shine,blizgėti,b lʲ ɪ z g eː tʲ ɪ,T R V S T V T V,C C V C C V C V
+lit-718_sparkletwinkle-1,718_sparkletwinkle,žibėti,ʒʲ ɪ b eː tʲ ɪ,S V T V T V,C V C V C V
+lit-719_benoisy-1,719_benoisy,triukšmauti,t rʲ ɪ ʊ k ʃ m aˑ ʊ tʲ ɪ,T R V V T S R V V T V,C C V V C C C V V C V
+lit-720_chime-1,720_chime,skambinti,s k ɐ mˑ bʲ ɪ n tʲ ɪ,S T V R T V R T V,C C V C C V C C V
+lit-721_ring-1,721_ring,skambinti,s k ɐ mˑ bʲ ɪ n tʲ ɪ,S T V R T V R T V,C C V C C V C C V
+lit-722_tinkle-1,722_tinkle,žvangėti,ʒ ʋ ɐ n g eː tʲ ɪ,S R V R T V T V,C C V C C V C V
+lit-723_roar-1,723_roar,šniokšti,ʃ nʲ ɪ oː k ʃ tʲ ɪ,S R V V T S T V,C C V V C C C V
+lit-724_rustle-1,724_rustle,ošti,oː ʃ tʲ ɪ,V S T V,V C C V
+lit-724_rustle-2,724_rustle,šlamėti,ʃ lˠ ɐ m eː tʲ ɪ,S R V R V T V,C C V C V C V
+lit-725_sound-1,725_sound,skardėti,s k ɐ r d eː tʲ ɪ,S T V R T V T V,C C V C C V C V
+lit-726_bark-1,726_bark,loti,lˠ oː tʲ ɪ,R V T V,C V C V
+lit-727_howl-1,727_howl,kaukti,k ɒʊˑ k tʲ ɪ,T V T T V,C V C C V
+lit-727_howl-2,727_howl,staugti,s t aˑ ʊ g tʲ ɪ,S T V V T T V,C C V V C C V
+lit-728_blow-1,728_blow,pūsti,p uː s tʲ ɪ,T V S T V,C V C C V
+lit-729_whistle-1,729_whistle,švilpti,ʃ ʋʲ ɪ lˠˑ p tʲ ɪ,S R V R T T V,C C V C C C V
+lit-729_whistle-2,729_whistle,švilpauti,ʃ ʋʲ ɪ lˠ p ɒʊˑ tʲ ɪ,S R V R T V T V,C C V C C V C V
+lit-730_shout-1,730_shout,šaukti,ʃ ɒʊˑ k tʲ ɪ,S V T T V,C V C C V
+lit-731_groan-1,731_groan,dejuoti,d ɛ j u ə tʲ ɪ,T V R V V T V,C V C V V C V
+lit-731_groan-2,731_groan,aimanuoti,ɐɪˑ m ɐ n u ə tʲ ɪ,V R V R V V T V,V C V C V V C V
+lit-732_tremble-1,732_tremble,virpėti,ʋʲ ɪ r p eː tʲ ɪ,R V R T V T V,C V C C V C V
+lit-733_live-1,733_live,gyventi,gʲ iː ʋ eˑ n tʲ ɪ,T V R V R T V,C V C V C C V
+lit-734_beborn-1,734_beborn,gimti,gʲ ɪ m tʲ ɪ,T V R T V,C V C C V
+lit-735_breathe-1,735_breathe,alsuoti,ɐ lˠ s u ə tʲ ɪ,V R S V V T V,V C C V V C V
+lit-735_breathe-2,735_breathe,kvėpuoti,k ʋ eː p u ə tʲ ɪ,T R V T V V T V,C C V C V V C V
+lit-736_drink-1,736_drink,gerti,g eˑ r tʲ ɪ,T V R T V,C V C C V
+lit-737_eat-1,737_eat,valgyti,ʋ aˑ lˠ gʲ iː tʲ ɪ,R V R T V T V,C V C C V C V
+lit-738_swallow-1,738_swallow,praryti,p r ɐ r iː tʲ ɪ,T R V R V T V,C C V C V C V
+lit-739_gettired-1,739_gettired,nuvargti,n ʊ ʋ ɐ rˑ g tʲ ɪ,R V R V R T T V,C V C V C C C V
+lit-739_gettired-2,739_gettired,privargti,p rʲ ɪ ʋ ɐ rˑ g tʲ ɪ,T R V R V R T T V,C C V C V C C C V
+lit-740_fallasleep-1,740_fallasleep,užmigti,ʊ ʒ mʲ ɪ g tʲ ɪ,V S R V T T V,V C C V C C V
+lit-741_sleep-1,741_sleep,miegoti,m i ə g oː tʲ ɪ,R V V T V T V,C V V C V C V
+lit-742_wakeup-1,742_wakeup,pabusti,p ɐ b ʊ s tʲ ɪ,T V T V S T V,C V C V C C V
+lit-743_getup-1,743_getup,keltis,k eˑ lˠ tʲ ɪ s,T V R T V S,C V C C V C
+lit-743_getup-2,743_getup,atsikelti,ɐ t sʲ ɪ k eˑ lˠ tʲ ɪ,V T S V T V R T V,V C C V C V C C V
+lit-744_relax-1,744_relax,pailsėti,p ɐɪˑ lˠ s eː tʲ ɪ,T V R S V T V,C V C C V C V
+lit-744_relax-2,744_relax,poilsiauti,p o j ɪ lˠ sʲ ɪ aˑ ʊ tʲ ɪ,T V R V R S V V V T V,C V C V C C V V V C V
+lit-745_fallill-1,745_fallill,susirgti,s ʊ sʲ ɪ rˑ g tʲ ɪ,S V S V R T T V,C V C V C C C V
+lit-746_beill-1,746_beill,sirgti,sʲ ɪ rˑ g tʲ ɪ,S V R T T V,C V C C C V
+lit-747_ache-1,747_ache,sopėti,s o p eː tʲ ɪ,S V T V T V,C V C V C V
+lit-747_ache-2,747_ache,skaudėti,s k ɒʊˑ d eː tʲ ɪ,S T V T V T V,C C V C V C V
+lit-748_cough-1,748_cough,kosėti,k oː s eː tʲ ɪ,T V S V T V,C V C V C V
+lit-749_recover-1,749_recover,sveikti,s ʋ ɛɪˑ k tʲ ɪ,S R V T T V,C C V C C V
+lit-749_recover-2,749_recover,taisytis,t ɐɪˑ s iː tʲ ɪ s,T V S V T V S,C V C V C V C
+lit-750_die-1,750_die,mirti,mʲ ɪ rˑ tʲ ɪ,R V R T V,C V C C V
+lit-750_die-2,750_die,numirti,n ʊ mʲ ɪ rˑ tʲ ɪ,R V R V R T V,C V C V C C V
+lit-751_perish-1,751_perish,žūti,ʒ uː tʲ ɪ,S V T V,C V C V
+lit-752_move-1,752_move,judėti,j ʊ d eː tʲ ɪ,R V T V T V,C V C V C V
+lit-752_move-2,752_move,pasijudinti,p ɐ sʲ ɪ j ʊ dʲ ɪ n tʲ ɪ,T V S V R V T V R T V,C V C V C V C V C C V
+lit-753_budge-1,753_budge,krutėti,k r ʊ t eː tʲ ɪ,T R V T V T V,C C V C V C V
+lit-754_standup-1,754_standup,pakilti,p ɐ kʲ ɪ lˠ tʲ ɪ,T V T V R T V,C V C V C C V
+lit-754_standup-2,754_standup,atsikelti,ɐ t sʲ ɪ k eˑ lˠ tʲ ɪ,V T S V T V R T V,V C C V C V C C V
+lit-755_sitdown-1,755_sitdown,sėstis,s eː s tʲ ɪ s,S V S T V S,C V C C V C
+lit-755_sitdown-2,755_sitdown,atsisėsti,ɐ t sʲ ɪ s eː s tʲ ɪ,V T S V S V S T V,V C C V C V C C V
+lit-756_tumble-1,756_tumble,parkristi,p ɐ r k rʲ ɪ s tʲ ɪ,T V R T R V S T V,C V C C C V C C V
+lit-756_tumble-2,756_tumble,pargriūti,p ɐ r g rʲ ɪ uː tʲ ɪ,T V R T R V V T V,C V C C C V V C V
+lit-757_walk-1,757_walk,eiti,ɛɪˑ tʲ ɪ,V T V,V C V
+lit-758_step-1,758_step,žengti,ʒ ɛ nˑ g tʲ ɪ,S V R T T V,C V C C C V
+lit-758_step-2,758_step,žingsniuoti,ʒʲ ɪ n g s nʲ ɪ u ə tʲ ɪ,S V R T S R V V V T V,C V C C C C V V V C V
+lit-759_takeawalk-1,759_takeawalk,pasivaikščioti,p ɐ sʲ ɪ ʋ aˑ j ɪ k ʃ tʃʲ ɪ o tʲ ɪ,T V S V R V R V T S X V V T V,C V C V C V C V C C C V V C V
+lit-760_rush-1,760_rush,skubėti,s k ʊ b eː tʲ ɪ,S T V T V T V,C C V C V C V
+lit-761_hurry-1,761_hurry,paskub́ėti,p ɐ s k ʊ b eː tʲ ɪ,T V S T V T V T V,C V C C V C V C V
+lit-761_hurry-2,761_hurry,pasiskubinti,p ɐ sʲ ɪ s k ʊ bʲ ɪ n tʲ ɪ,T V S V S T V T V R T V,C V C V C C V C V C C V
+lit-762_dash-1,762_dash,dumti,d ʊ m tʲ ɪ,T V R T V,C V C C V
+lit-762_dash-2,762_dash,lėkti,lˠ eː k tʲ ɪ,R V T T V,C V C C V
+lit-763_run-1,763_run,bėgti,b eː g tʲ ɪ,T V T T V,C V C C V
+lit-764_jump-1,764_jump,šokti,ʃ oː k tʲ ɪ,S V T T V,C V C C V
+lit-765_climb-1,765_climb,kopti,k oː p tʲ ɪ,T V T T V,C V C C V
+lit-766_seesaw-1,766_seesaw,supti,s ʊ p tʲ ɪ,S V T T V,C V C C V
+lit-766_seesaw-2,766_seesaw,linguoti,lʲ ɪ n g u ə tʲ ɪ,R V R T V V T V,C V C C V V C V
+lit-767_creep-1,767_creep,ropoti,r o p oː tʲ ɪ,R V T V T V,C V C V C V
+lit-767_creep-2,767_creep,šliaužti,ʃ lʲ ɛʊˑ ʒ tʲ ɪ,S R V S T V,C C V C C V
+lit-768_swim-1,768_swim,plaukti,p lˠ ɒʊˑ k tʲ ɪ,T R V T T V,C C V C C V
+lit-769_dive-1,769_dive,nerti,n eˑ r tʲ ɪ,R V R T V,C V C C V
+lit-770_row-1,770_row,irtis,ɪ r tʲ ɪ s,V R T V S,V C C V C
+lit-770_row-2,770_row,irkluoti,ɪ r k lˠ u ə tʲ ɪ,V R T R V V T V,V C C C V V C V
+lit-771_drive-1,771_drive,važiuoti,ʋ ɐ ʒʲ ɪu ə tʲ ɪ,R V S V V T V,C V C V V C V
+lit-771_drive-2,771_drive,važinėti,ʋ ɐ ʒʲ ɪ n eː tʲ ɪ,R V S V R V T V,C V C V C V C V
+lit-772_fly-1,772_fly,lėkti,lˠ eː k tʲ ɪ,R V T T V,C V C C V
+lit-772_fly-2,772_fly,skristi,s k rʲ ɪ s tʲ ɪ,S T R V S T V,C C C V C C V
+lit-773_go-1,773_go,eiti,ɛɪˑ tʲ ɪ,V T V,V C V
+lit-774_goaway-1,774_goaway,išeiti,ɪ ʃ ɛɪˑ tʲ ɪ,V S V T V,V C V C V
+lit-775_depart-1,775_depart,išvykti,ɪ ʃ ʋ iː k tʲ ɪ,V S R V T T V,V C C V C C V
+lit-775_depart-2,775_depart,išvažiuoti,ɪ ʃ ʋ ɐ ʒʲ ɪ u ə tʲ ɪ,V S R V S V V V T V,V C C V C V V V C V
+lit-776_stop-1,776_stop,sustoti,s ʊ s t oː tʲ ɪ,S V S T V T V,C V C C V C V
+lit-777_goin-1,777_goin,įeiti,j iː ɛɪˑ tʲ ɪ,R V V T V,C V V C V
+lit-778_enter-1,778_enter,įžengti,j iː ʒ ɛ nˑ g tʲ ɪ,R V S V R T T V,C V C V C C C V
+lit-779_come-1,779_come,ateiti,ɐ t ɛɪˑ tʲ ɪ,V T V T V,V C V C V
+lit-780_arrive-1,780_arrive,ateiti,ɐ t ɛɪˑ tʲ ɪ,V T V T V,V C V C V
+lit-781_comeback-1,781_comeback,grį̃žti,g rʲ iː ʒ tʲ ɪ,T R V S T V,C C V C C V
+lit-781_comeback-2,781_comeback,sugrį̃žti,s ʊ g rʲ iː ʒ tʲ ɪ,S V T R V S T V,C V C C V C C V
+lit-782_stay-1,782_stay,likti,lʲ ɪ k tʲ ɪ,R V T T V,C V C C V
+lit-782_stay-2,782_stay,pasilikti,p ɐ sʲ ɪ lʲ ɪ k tʲ ɪ,T V S V R V T T V,C V C V C V C C V
+lit-783_wait-1,783_wait,laukti,lˠ aˑ ʊ k tʲ ɪ,R V V T T V,C V V C C V
+lit-784_await-1,784_await,laukti,lˠ aˑ ʊ k tʲ ɪ,R V V T T V,C V V C C V
+lit-785_lookfor-1,785_lookfor,ieškoti,i ə ʃ k oː tʲ ɪ,V V S T V T V,V V C C V C V
+lit-786_find-1,786_find,rasti,r ɑ s tʲ ɪ,R V S T V,C V C C V
+lit-786_find-2,786_find,surasti,s ʊ r ɑ s tʲ ɪ,S V R V S T V,C V C V C C V
+lit-787_try-1,787_try,mėginti,m eː gʲ ɪ n tʲ ɪ,R V T V R T V,C V C V C C V
+lit-788_prepare-1,788_prepare,rengti,r ɛ nˑ g tʲ ɪ,R V R T T V,C V C C C V
+lit-789_love-1,789_love,myĺėti,mʲ iː lˠ eː tʲ ɪ,R V R V T V,C V C V C V
+lit-790_like-1,790_like,ḿėgti,m eː g tʲ ɪ,R V T T V,C V C C V
+lit-790_like-2,790_like,patikti,p ɐ tʲ ɪ k tʲ ɪ,T V T V T T V,C V C V C C V
+lit-791_laugh-1,791_laugh,juoktis,j uə k tʲ ɪ s,R V T T V S,C V C C V C
+lit-792_move-1,792_move,jaudinti,j aˑ ʊ dʲ ɪ n tʲ ɪ,R V V T V R T V,C V V C V C C V
+lit-792_move-2,792_move,graudinti,g r ɒʊˑ dʲ ɪ n tʲ ɪ,T R V T V R T V,C C V C V C C V
+lit-793_weepcry-1,793_weepcry,verkti,ʋ ɛ rˑ k tʲ ɪ,R V R T T V,C V C C C V
+lit-794_grumble-1,794_grumble,bartis,b aˑ r tʲ ɪ s,T V R T V S,C V C C V C
+lit-795_beannoyed-1,795_beannoyed,pykti,p iː k tʲ ɪ,T V T T V,C V C C V
+lit-795_beannoyed-2,795_beannoyed,apmaudauti,ɐ p m ɒʊˑ d aˑ ʊ tʲ ɪ,V T R V T V V T V,V C C V C V V C V
+lit-796_beafraid-1,796_beafraid,bijoti,bʲ ɪ j oː tʲ ɪ,T V R V T V,C V C V C V
+lit-796_beafraid-2,796_beafraid,baimintis,b aˑ j ɪ mʲ ɪ n tʲ ɪ s,T V R V R V R T V S,C V C V C V C C V C
+lit-797_beafraidof-1,797_beafraidof,bijoti,bʲ ɪ j oː tʲ ɪ,T V R V T V,C V C V C V
+lit-797_beafraidof-2,797_beafraidof,baimintis,b aˑ j ɪ mʲ ɪ n tʲ ɪ s,T V R V R V R T V S,C V C V C V C C V C
+lit-798_flee-1,798_flee,bėgti,b eː g tʲ ɪ,T V T T V,C V C C V
+lit-798_flee-2,798_flee,sprukti,s p r ʊ k tʲ ɪ,S T R V T T V,C C C V C C V
+lit-799_escape-1,799_escape,pabėgti,p ɐ b eː g tʲ ɪ,T V T V T T V,C V C V C C V
+lit-800_see-1,800_see,žiūŕėti,ʒʲ ɪuː r eː tʲ ɪ,S V R V T V,C V C V C V
+lit-801_lookat-1,801_lookat,žiūŕėti,ʒʲ ɪuː r eː tʲ ɪ,S V R V T V,C V C V C V
+lit-802_watch-1,802_watch,žiūrėti į,ʒʲ ɪuː r eː tʲ ɪ + j iː,S V R V T V X R V,C V C V C V X C V
+lit-802_watch-2,802_watch,pažiūrėti į,p ɐ ʒʲ ɪuː r eː tʲ ɪ + j iː,T V S V R V T V X R V,C V C V C V C V X C V
+lit-803_hear-1,803_hear,girdėti,gʲ ɪ r d eː tʲ ɪ,T V R T V T V,C V C C V C V
+lit-804_listen-1,804_listen,klausytis,k lˠ ɒʊˑ s iː tʲ ɪ s,T R V S V T V S,C C V C V C V C
+lit-805_taste-1,805_taste,ragauti,r ɐ g aˑ ʊ tʲ ɪ,R V T V V T V,C V C V V C V
+lit-805_taste-2,805_taste,paragauti,p ɐ r ɐ g aˑ ʊ tʲ ɪ,T V R V T V V T V,C V C V C V V C V
+lit-806_smell-1,806_smell,uosti,u ə s tʲ ɪ,V V S T V,V V C C V
+lit-806_smell-2,806_smell,užuosti,ʊ ʒ u ə s tʲ ɪ,V S V V S T V,V C V V C C V
+lit-807_feel-1,807_feel,justi,j ʊ s tʲ ɪ,R V S T V,C V C C V
+lit-807_feel-2,807_feel,jausti,j ɒʊˑ s tʲ ɪ,R V S T V,C V C C V
+lit-807_feel-3,807_feel,pajusti,p ɐ j ʊ s tʲ ɪ,T V R V S T V,C V C V C C V
+lit-808_seem-1,808_seem,rodytis,r oː dʲ iː tʲ ɪ s,R V T V T V S,C V C V C V C
+lit-808_seem-2,808_seem,atrodyti,ɐ t r oː dʲ iː tʲ ɪ,V T R V T V T V,V C C V C V C V
+lit-809_show-1,809_show,pasirodyti,p ɐ sʲ ɪ r oː dʲ iː tʲ ɪ,T V S V R V T V T V,C V C V C V C V C V
+lit-810_hear-1,810_hear,išgirsti,ɪ ʃ gʲ ɪ rˑ s tʲ ɪ,V S T V R S T V,V C C V C C C V
+lit-811_becold-1,811_becold,šalti,ʃ aˑ lˠ tʲ ɪ,S V R T V,C V C C V
+lit-812_do-1,812_do,daryti,d ɐ r iː tʲ ɪ,T V R V T V,C V C V C V
+lit-813_can-1,813_can,galėti,g ɐ lˠ eː tʲ ɪ,T V R V T V,C V C V C V
+lit-813_can-2,813_can,pajėgti,p ɐ j eː g tʲ ɪ,T V R V T T V,C V C V C C V
+lit-814_want-1,814_want,norėti,n o r eː tʲ ɪ,R V R V T V,C V C V C V
+lit-815_start-1,815_start,pradėti,p r ɐ d eː tʲ ɪ,T R V T V T V,C C V C V C V
+lit-815_start-2,815_start,prasid́ėti,p r ɐ sʲ ɪ d eː tʲ ɪ,T R V S V T V T V,C C V C V C V C V
+lit-816_finish-1,816_finish,baigti,b ɐɪˑ g tʲ ɪ,T V T T V,C V C C V
+lit-816_finish-2,816_finish,užbaigti,ʊ ʒ b ɐɪˑ g tʲ ɪ,V S T V T T V,V C C V C C V
+lit-817_stop-1,817_stop,liautis,lʲ ɪ aˑ ʊ tʲ ɪ s,R V V V T V S,C V V V C V C
+lit-818_succeed-1,818_succeed,pavykti,p ɐ ʋ iː k tʲ ɪ,T V R V T T V,C V C V C C V
+lit-818_succeed-2,818_succeed,pasisekti,p ɐ sʲ ɪ s ɛ k tʲ ɪ,T V S V S V T T V,C V C V C V C C V
+lit-819_turnout-1,819_turnout,nusisekti,n ʊ sʲ ɪ s ɛ k tʲ ɪ,R V S V S V T T V,C V C V C V C C V
+lit-820_open-1,820_open,atverti,ɐ t ʋ eˑ r tʲ ɪ,V T R V R T V,V C C V C C V
+lit-820_open-2,820_open,atidaryti,ɐ tʲ ɪ d ɐ r iː tʲ ɪ,V T V T V R V T V,V C V C V C V C V
+lit-821_close-1,821_close,uždaryti,ʊ ʒ d ɐ r iː tʲ ɪ,V S T V R V T V,V C C V C V C V
+lit-822_put-1,822_put,statyti,s t ɐ t iː tʲ ɪ,S T V T V T V,C C V C V C V
+lit-822_put-2,822_put,pastatyti,p ɐ s t ɐ t iː tʲ ɪ,T V S T V T V T V,C V C C V C V C V
+lit-823_place-1,823_place,sodinti,s o dʲ ɪ n tʲ ɪ,S V T V R T V,C V C V C C V
+lit-823_place-2,823_place,pasodinti,p ɐ s o dʲ ɪ n tʲ ɪ,T V S V T V R T V,C V C V C V C C V
+lit-824_lay-1,824_lay,dėti,d eː tʲ ɪ,T V T V,C V C V
+lit-824_lay-2,824_lay,pad́ėti,p ɐ d eː tʲ ɪ,T V T V T V,C V C V C V
+lit-825_touch-1,825_touch,liesti,lˠ i ə s tʲ ɪ,R V V S T V,C V V C C V
+lit-825_touch-2,825_touch,paliesti,p ɐ lˠ i ə s tʲ ɪ,T V R V V S T V,C V C V V C C V
+lit-826_connect-1,826_connect,jungti,j ʊ n g tʲ ɪ,R V R T T V,C V C C C V
+lit-826_connect-2,826_connect,surišti,s ʊ rʲ ɪ ʃ tʲ ɪ,S V R V S T V,C V C V C C V
+lit-827_cover-1,827_cover,uždengti,ʊ ʒ d ɛ nˑ g tʲ ɪ,V S T V R T T V,V C C V C C C V
+lit-828_hangup-1,828_hangup,pakarti,p ɐ k aˑ r tʲ ɪ,T V T V R T V,C V C V C C V
+lit-828_hangup-2,828_hangup,pakabinti,p ɐ k ɐ bʲ ɪ n tʲ ɪ,T V T V T V R T V,C V C V C V C C V
+lit-829_light-1,829_light,padegti,p ɐ d ɛ g tʲ ɪ,T V T V T T V,C V C V C C V
+lit-830_pickup-1,830_pickup,pakelti,p ɐ k eˑ lˠ tʲ ɪ,T V T V R T V,C V C V C C V
+lit-831_leave-1,831_leave,palikti,p ɐ lʲ ɪ k tʲ ɪ,T V R V T T V,C V C V C C V
+lit-832_lose-1,832_lose,pamesti,p ɐ m ɛ s tʲ ɪ,T V R V S T V,C V C V C C V
+lit-833_drop-1,833_drop,atsisakyti,ɐ t sʲ ɪ s ɐ k iː tʲ ɪ,V T S V S V T V T V,V C C V C V C V C V
+lit-834_make-1,834_make,dirbti,dʲ ɪ r b tʲ ɪ,T V R T T V,C V C C C V
+lit-835_produce-1,835_produce,gaminti,g ɐ mʲ ɪ n tʲ ɪ,T V R V R T V,C V C V C C V
+lit-836_build-1,836_build,statyti,s t ɐ t iː tʲ ɪ,S T V T V T V,C C V C V C V
+lit-836_build-2,836_build,pastatyti,p ɐ s t ɐ t iː tʲ ɪ,T V S T V T V T V,C V C C V C V C V
+lit-837_repairmend-1,837_repairmend,taisyti,t ɐɪˑ s iː tʲ ɪ,T V S V T V,C V C V C V
+lit-837_repairmend-2,837_repairmend,remontuoti,r ɛ m o n t u ə tʲ ɪ,R V R V R T V V T V,C V C V C C V V C V
+lit-838_improve-1,838_improve,gerinti,g ɛ rʲ ɪ n tʲ ɪ,T V R V R T V,C V C V C C V
+lit-838_improve-2,838_improve,ištaisyti,ɪ ʃ t ɐɪˑ s iː tʲ ɪ,V S T V S V T V,V C C V C V C V
+lit-839_alter-1,839_alter,keisti,k ɛɪˑ s tʲ ɪ,T V S T V,C V C C V
+lit-839_alter-2,839_alter,pakeisti,p ɐ k ɛɪˑ s tʲ ɪ,T V T V S T V,C V C V C C V
+lit-840_dig-1,840_dig,kasti,k ɑ s tʲ ɪ,T V S T V,C V C C V
+lit-841_bow-1,841_bow,lenkti,lˠ ɛ nˑ k tʲ ɪ,R V R T T V,C V C C C V
+lit-841_bow-2,841_bow,palenkti,p ɐ lˠ ɛ nˑ k tʲ ɪ,T V R V R T T V,C V C V C C C V
+lit-842_bend-1,842_bend,lenkti,lˠ ɛ nˑ k tʲ ɪ,R V R T T V,C V C C C V
+lit-842_bend-2,842_bend,palenkti,p ɐ lˠ ɛ nˑ k tʲ ɪ,T V R V R T T V,C V C V C C C V
+lit-843_spin-1,843_spin,sukti,s ʊ k tʲ ɪ,S V T T V,C V C C V
+lit-844_turnover-1,844_turnover,kreipti,k r ɛɪˑ p tʲ ɪ,T R V T T V,C C V C C V
+lit-844_turnover-2,844_turnover,pakreipti,p ɐ k r ɛɪˑ p tʲ ɪ,T V T R V T T V,C V C C V C C V
+lit-845_turnturnaround-1,845_turnturnaround,sukti,s ʊ k tʲ ɪ,S V T T V,C V C C V
+lit-845_turnturnaround-2,845_turnturnaround,apversti,ɐ p ʋ ɛ rˑ s tʲ ɪ,V T R V R S T V,V C C V C C C V
+lit-846_raise-1,846_raise,kelti,k eˑ lˠ tʲ ɪ,T V R T V,C V C C V
+lit-846_raise-2,846_raise,pakelti,p ɐ k eˑ lˠ tʲ ɪ,T V T V R T V,C V C V C C V
+lit-847_lift-1,847_lift,pakelti,p ɐ k eˑ lˠ tʲ ɪ,T V T V R T V,C V C V C C V
+lit-848_seize-1,848_seize,čiupti,tʃʲ ɪ ʊ p tʲ ɪ,X V V T T V,C V V C C V
+lit-848_seize-2,848_seize,griebti,g r i ə b tʲ ɪ,T R V V T T V,C C V V C C V
+lit-849_hold-1,849_hold,laikyti,lˠ ɐɪˑ k iː tʲ ɪ,R V T V T V,C V C V C V
+lit-849_hold-2,849_hold,palaikyti,p ɐ lˠ ɐɪˑ k iː tʲ ɪ,T V R V T V T V,C V C V C V C V
+lit-850_press-1,850_press,spausti,s p aˑ ʊ s tʲ ɪ,S T V V S T V,C C V V C C V
+lit-851_push-1,851_push,stumti,s t ʊ m tʲ ɪ,S T V R T V,C C V C C V
+lit-852_scrape-1,852_scrape,kasyti,k ɐ s iː tʲ ɪ,T V S V T V,C V C V C V
+lit-852_scrape-2,852_scrape,grandyti,g r aˑ n dʲ iː tʲ ɪ,T R V R T V T V,C C V C C V C V
+lit-853_lick-1,853_lick,laižyti,lˠ ɐɪˑ ʒ iː tʲ ɪ,R V S V T V,C V C V C V
+lit-854_bite-1,854_bite,kandžioti,k aˑ n d ʒʲ ɪ o tʲ ɪ,T V R T S V V T V,C V C C C V V C V
+lit-855_tearoff-1,855_tearoff,nuplėšti,n ʊ p lˠ eː ʃ tʲ ɪ,R V T R V S T V,C V C C V C C V
+lit-856_cutoff-1,856_cutoff,atpjauti,ɐ t p j aˑ ʊ tʲ ɪ,V T T R V V T V,V C C C V V C V
+lit-856_cutoff-2,856_cutoff,atkirpti,ɐ t kʲ ɪ rˑ p tʲ ɪ,V T T V R T T V,V C C V C C C V
+lit-857_tie-1,857_tie,rišti,rʲ ɪ ʃ tʲ ɪ,R V S T V,C V C C V
+lit-857_tie-2,857_tie,surišti,s ʊ rʲ ɪ ʃ tʲ ɪ,S V R V S T V,C V C V C C V
+lit-858_stick-1,858_stick,kišti,kʲ ɪ ʃ tʲ ɪ,T V S T V,C V C C V
+lit-858_stick-2,858_stick,įkišti,j iː kʲ ɪ ʃ tʲ ɪ,R V T V S T V,C V C V C C V
+lit-859_break-1,859_break,lūžti,lˠ uː ʒ tʲ ɪ,R V S T V,C V C C V
+lit-859_break-2,859_break,laužyti,lˠ aˑ ʊ ʒʲ iː tʲ ɪ,R V V S V T V,C V V C V C V
+lit-860_knock-1,860_knock,belsti,b eˑ lˠ s tʲ ɪ,T V R S T V,C V C C C V
+lit-860_knock-2,860_knock,barbenti,b ɐ r b eˑ n tʲ ɪ,T V R T V R T V,C V C C V C C V
+lit-861_hit-1,861_hit,mušti,m ʊ ʃ tʲ ɪ,R V S T V,C V C C V
+lit-862_glue-1,862_glue,lipdyti,lʲ ɪ p d iː tʲ ɪ,R V T T V T V,C V C C V C V
+lit-862_glue-2,862_glue,klijuoti,k lʲ ɪ j u ə tʲ ɪ,T R V R V V T V,C C V C V V C V
+lit-863_rub-1,863_rub,trinti,t rʲ ɪ n tʲ ɪ,T R V R T V,C C V C C V
+lit-863_rub-2,863_rub,tarkuoti,t ɐ r k u ə tʲ ɪ,T V R T V V T V,C V C C V V C V
+lit-864_spread-1,864_spread,tepti,t ɛ p tʲ ɪ,T V T T V,C V C C V
+lit-864_spread-2,864_spread,užtepti,ʊ ʒ t ɛ p tʲ ɪ,V S T V T T V,V C C V C C V
+lit-865_sharpen-1,865_sharpen,galą́sti,g ɐ lˠ ɑː s tʲ ɪ,T V R V S T V,C V C V C C V
+lit-866_cut-1,866_cut,pjauti,p j aˑ ʊ tʲ ɪ,T R V V T V,C C V V C V
+lit-866_cut-2,866_cut,kirpti,kʲ ɪ rˑ p tʲ ɪ,T V R T T V,C V C C C V
+lit-867_jog-1,867_jog,purtyti,p ʊ r tʲ iː tʲ ɪ,T V R T V T V,C V C C V C V
+lit-868_shake-1,868_shake,purtyti,p ʊ r tʲ iː tʲ ɪ,T V R T V T V,C V C C V C V
+lit-869_swing-1,869_swing,mojuoti,m o j u ə tʲ ɪ,R V R V V T V,C V C V V C V
+lit-870_pour-1,870_pour,pilti,pʲ ɪ lˠ tʲ ɪ,T V R T V,C V C C V
+lit-870_pour-2,870_pour,berti,b ɛ rˑ tʲ ɪ,T V R T V,C V C C V
+lit-871_fill-1,871_fill,pildyti,pʲ ɪ lˠ dʲ iː tʲ ɪ,T V R T V T V,C V C C V C V
+lit-871_fill-2,871_fill,pripildyti,p rʲ ɪ pʲ ɪ lˠ dʲ iː tʲ ɪ,T R V T V R T V T V,C C V C V C C V C V
+lit-872_wrap-1,872_wrap,įvynioti,j iː ʋʲ iː nʲ ɪ oː tʲ ɪ,R V R V R V V T V,C V C V C V V C V
+lit-872_wrap-2,872_wrap,suvynioti,s ʊ ʋʲ iː nʲ ɪ oː tʲ ɪ,S V R V R V V T V,C V C V C V V C V
+lit-873_carry-1,873_carry,nešti,n ɛ ʃ tʲ ɪ,R V S T V,C V C C V
+lit-873_carry-2,873_carry,nešioti,n ɛ ʃʲ ɪ oː tʲ ɪ,R V S V V T V,C V C V V C V
+lit-874_drag-1,874_drag,vilkti,ʋʲ ɪ lˠˑ k tʲ ɪ,R V R T T V,C V C C C V
+lit-875_pull-1,875_pull,tempti,t ɛ mˑ p tʲ ɪ,T V R T T V,C V C C C V
+lit-876_keep-1,876_keep,laikyti,lˠ ɐɪˑ k iː tʲ ɪ,R V T V T V,C V C V C V
+lit-877_throw-1,877_throw,mesti,m ɛ s tʲ ɪ,R V S T V,C V C C V
+lit-877_throw-2,877_throw,sviesti,s ʋ i ə s tʲ ɪ,S R V V S T V,C C V V C C V
+lit-878_catch-1,878_catch,sugauti,s ʊ g aˑ ʊ tʲ ɪ,S V T V V T V,C V C V V C V
+lit-879_grab-1,879_grab,čiupti,tʃʲ ɪ ʊ p tʲ ɪ,X V V T T V,C V V C C V
+lit-879_grab-2,879_grab,griebti,g r i ə b tʲ ɪ,T R V V T T V,C C V V C C V
+lit-880_hide-1,880_hide,slėpti,s lˠ eː p tʲ ɪ,S R V T T V,C C V C C V
+lit-880_hide-2,880_hide,slapstyti,s lˠ ɐ p s t iː tʲ ɪ,S R V T S T V T V,C C V C C C V C V
+lit-881_divide-1,881_divide,dalyti,d ɐ lˠ iː tʲ ɪ,T V R V T V,C V C V C V
+lit-881_divide-2,881_divide,padalyti,p ɐ d ɐ lˠ iː tʲ ɪ,T V T V R V T V,C V C V C V C V
+lit-882_send-1,882_send,sių̃sti,sʲ ɪ uː s tʲ ɪ,S V V S T V,C V V C C V
+lit-882_send-2,882_send,pasių̃sti,p ɐ sʲ ɪ uː s tʲ ɪ,T V S V V S T V,C V C V V C C V
+lit-883_bring-1,883_bring,atnešti,ɐ t n ɛ ʃ tʲ ɪ,V T R V S T V,V C C V C C V
+lit-884_add-1,884_add,pridėti,p rʲ ɪ d eː tʲ ɪ,T R V T V T V,C C V C V C V
+lit-885_get-1,885_get,gauti,g aˑ ʊ tʲ ɪ,T V V T V,C V V C V
+lit-886_receive-1,886_receive,gauti,g aˑ ʊ tʲ ɪ,T V V T V,C V V C V
+lit-887_take-1,887_take,paimti,p ɐɪˑ m tʲ ɪ,T V R T V,C V C C V
+lit-888_choose-1,888_choose,rinkti,rʲ ɪ nˑ k tʲ ɪ,R V R T T V,C V C C C V
+lit-888_choose-2,888_choose,išsirinkti,ɪ ʃ sʲ ɪ rʲ ɪ nˑ k tʲ ɪ,V S S V R V R T T V,V C C V C V C C C V
+lit-889_select-1,889_select,išrinkti,ɪ ʃ rʲ ɪ nˑ k tʲ ɪ,V S R V R T T V,V C C V C C C V
+lit-890_preserve-1,890_preserve,išsaugoti,ɪ ʃ s aˑ ʊ g o tʲ ɪ,V S S V V T V T V,V C C V V C V C V
+lit-891_hinder-1,891_hinder,trukdyti,t r ʊ k d iː tʲ ɪ,T R V T T V T V,C C V C C V C V
+lit-892_spoil-1,892_spoil,sugadinti,s ʊ g ɐ dʲ ɪ n tʲ ɪ,S V T V T V R T V,C V C V C V C C V
+lit-893_damage-1,893_damage,žaloti,ʒ ɐ lˠ oː tʲ ɪ,S V R V T V,C V C V C V
+lit-893_damage-2,893_damage,gadinti,g ɐ dʲ ɪ n tʲ ɪ,T V T V R T V,C V C V C C V
+lit-894_break-1,894_break,sukulti,s ʊ k ʊ lˠ tʲ ɪ,S V T V R T V,C V C V C C V
+lit-894_break-2,894_break,sudaužyti,s ʊ d ɒʊˑ ʒ iː tʲ ɪ,S V T V S V T V,C V C V C V C V
+lit-895_tear-1,895_tear,perplėšti,p eˑ r p lˠ eː ʃ tʲ ɪ,T V R T R V S T V,C V C C C V C C V
+lit-895_tear-2,895_tear,suplėšyti,s ʊ p lˠ eː ʃʲ iː tʲ ɪ,S V T R V S V T V,C V C C V C V C V
+lit-896_destroy-1,896_destroy,suardyti,s ʊ ɐ r d iː tʲ ɪ,S V V R T V T V,C V V C C V C V
+lit-896_destroy-2,896_destroy,sugriauti,s ʊ g rʲ ɪ aˑ ʊ tʲ ɪ,S V T R V V V T V,C V C C V V V C V
+lit-897_burn-1,897_burn,deginti,d ɛ gʲ ɪ n tʲ ɪ,T V T V R T V,C V C V C C V
+lit-897_burn-2,897_burn,sudeginti,s ʊ d ɛ gʲ ɪ n tʲ ɪ,S V T V T V R T V,C V C V C V C C V
+lit-898_give-1,898_give,duoti,d u ə tʲ ɪ,T V V T V,C V V C V
+lit-898_give-2,898_give,paduoti,p ɐ d u ə tʲ ɪ,T V T V V T V,C V C V V C V
+lit-899_hand-1,899_hand,paduoti,p ɐ d u ə tʲ ɪ,T V T V V T V,C V C V V C V
+lit-900_give-1,900_give,dovanoti,d o ʋ ɐ n oː tʲ ɪ,T V R V R V T V,C V C V C V C V
+lit-901_promise-1,901_promise,žadėti,ʒ ɐ d eː tʲ ɪ,S V T V T V,C V C V C V
+lit-901_promise-2,901_promise,pažadėti,p ɐ ʒ ɐ d eː tʲ ɪ,T V S V T V T V,C V C V C V C V
+lit-902_wish-1,902_wish,norėti,n o r eː tʲ ɪ,R V R V T V,C V C V C V
+lit-902_wish-2,902_wish,linḱėti,lʲ ɪ n k eː tʲ ɪ,R V R T V T V,C V C C V C V
+lit-903_praise-1,903_praise,girti,gʲ ɪ r tʲ ɪ,T V R T V,C V C C V
+lit-903_praise-2,903_praise,pagirti,p ɐ gʲ ɪ r tʲ ɪ,T V T V R T V,C V C V C C V
+lit-904_kiss-1,904_kiss,bučiuoti,b ʊ tʃʲ ɪ u ə tʲ ɪ,T V X V V V T V,C V C V V V C V
+lit-905_rock-1,905_rock,supti,s ʊ p tʲ ɪ,S V T T V,C V C C V
+lit-906_cover-1,906_cover,užkloti,ʊ ʒ k lˠ oː tʲ ɪ,V S T R V T V,V C C C V C V
+lit-906_cover-2,906_cover,uždengti,ʊ ʒ d ɛ nˑ g tʲ ɪ,V S T V R T T V,V C C V C C C V
+lit-907_wake-1,907_wake,žadinti,ʒ a dʲ ɪ n tʲ ɪ,S V T V R T V,C V C V C C V
+lit-908_show-1,908_show,rodyti,r oː dʲ iː tʲ ɪ,R V T V T V,C V C V C V
+lit-909_guide-1,909_guide,vesti,ʋ ɛ s tʲ ɪ,R V S T V,C V C C V
+lit-909_guide-2,909_guide,vadovauti,ʋ ɐ d o ʋ aˑ ʊ tʲ ɪ,R V T V R V V T V,C V C V C V V C V
+lit-910_teach-1,910_teach,mokyti,m oː kʲ iː tʲ ɪ,R V T V T V,C V C V C V
+lit-910_teach-2,910_teach,išmokyti,ɪ ʃ m oː kʲ iː tʲ ɪ,V S R V T V T V,V C C V C V C V
+lit-911_instruct-1,911_instruct,dėstyti,d eː s tʲ iː tʲ ɪ,T V S T V T V,C V C C V C V
+lit-912_bringup-1,912_bringup,išauginti,ɪ ʃ ɒʊˑ gʲ ɪ n tʲ ɪ,V S V T V R T V,V C V C V C C V
+lit-913_lead-1,913_lead,valdyti,ʋ ɐ lˠ d iː tʲ ɪ,R V R T V T V,C V C C V C V
+lit-913_lead-2,913_lead,vadovauti,ʋ ɐ d o ʋ aˑ ʊ tʲ ɪ,R V T V R V V T V,C V C V C V V C V
+lit-914_urge-1,914_urge,uiti,ʊ j ɪ tʲ ɪ,V R V T V,V C V C V
+lit-914_urge-2,914_urge,raginti,r a gʲ ɪ n tʲ ɪ,R V T V R T V,C V C V C C V
+lit-914_urge-3,914_urge,skubinti,s k ʊ bʲ ɪ n tʲ ɪ,S T V T V R T V,C C V C V C C V
+lit-915_let-1,915_let,paliepti,p ɐ lˠ i ə p tʲ ɪ,T V R V V T T V,C V C V V C C V
+lit-916_invite-1,916_invite,kviesti,k ʋ i ə s tʲ ɪ,T R V V S T V,C C V V C C V
+lit-916_invite-2,916_invite,pakviesti,p ɐ k ʋ i ə s tʲ ɪ,T V T R V V S T V,C V C C V V C C V
+lit-917_unite-1,917_unite,sujungti,s ʊ j ʊ n g tʲ ɪ,S V R V R T T V,C V C V C C C V
+lit-917_unite-2,917_unite,suvienyti,s ʊ ʋ i ə nʲ iː tʲ ɪ,S V R V V R V T V,C V C V V C V C V
+lit-918_visit-1,918_visit,lankyti,lˠ ɐ n k iː tʲ ɪ,R V R T V T V,C V C C V C V
+lit-918_visit-2,918_visit,aplankyti,ɐ p lˠ ɐ n k iː tʲ ɪ,V T R V R T V T V,V C C V C C V C V
+lit-919_meet-1,919_meet,sutikti,s ʊ tʲ ɪ k tʲ ɪ,S V T V T T V,C V C V C C V
+lit-919_meet-2,919_meet,pasitikti,p ɐ sʲ ɪ tʲ ɪ k tʲ ɪ,T V S V T V T T V,C V C V C V C C V
+lit-920_assemble-1,920_assemble,susirinkti,s ʊ sʲ ɪ rʲ ɪ nˑ k tʲ ɪ,S V S V R V R T T V,C V C V C V C C C V
+lit-921_play-1,921_play,groti,g r oː tʲ ɪ,T R V T V,C C V C V
+lit-921_play-2,921_play,žaisti,ʒ ɐɪˑ s tʲ ɪ,S V S T V,C V C C V
+lit-922_sing-1,922_sing,dainuoti,d ɐɪˑ n u ə tʲ ɪ,T V R V V T V,C V C V V C V
+lit-923_dance-1,923_dance,šokti,ʃ oː k tʲ ɪ,S V T T V,C V C C V
+lit-924_separate-1,924_separate,skirtis,s kʲ ɪ r tʲ ɪ s,S T V R T V S,C C V C C V C
+lit-924_separate-2,924_separate,išsiskirti,ɪ ʃ sʲ ɪ s kʲ ɪ r tʲ ɪ,V S S V S T V R T V,V C C V C C V C C V
+lit-925_leave-1,925_leave,palikti,p ɐ lʲ ɪ k tʲ ɪ,T V R V T T V,C V C V C C V
+lit-926_rescue-1,926_rescue,gelbėti,g eˑ lˠ b eː tʲ ɪ,T V R T V T V,C V C C V C V
+lit-927_guard-1,927_guard,sergėti,s eˑ r g eː tʲ ɪ,S V R T V T V,C V C C V C V
+lit-928_protect-1,928_protect,ginti,gʲ ɪ n tʲ ɪ,T V R T V,C V C C V
+lit-928_protect-2,928_protect,apginti,ɐ p gʲ ɪ n tʲ ɪ,V T T V R T V,V C C V C C V
+lit-929_defend-1,929_defend,ginti,gʲ ɪ n tʲ ɪ,T V R T V,C V C C V
+lit-929_defend-2,929_defend,apginti,ɐ p gʲ ɪ n tʲ ɪ,V T T V R T V,V C C V C C V
+lit-930_brawl-1,930_brawl,muštis,m ʊ ʃ tʲ ɪ s,R V S T V S,C V C C V C
+lit-931_shoot-1,931_shoot,šauti,ʃ aˑ ʊ tʲ ɪ,S V V T V,C V V C V
+lit-931_shoot-2,931_shoot,šaudyti,ʃ aˑ ʊ dʲ iː tʲ ɪ,S V V T V T V,C V V C V C V
+lit-932_win-1,932_win,nugalėti,n ʊ g ɐ lˠ eː tʲ ɪ,R V T V R V T V,C V C V C V C V
+lit-933_annoy-1,933_annoy,pykinti,p iː kʲ ɪ n tʲ ɪ,T V T V R T V,C V C V C C V
+lit-934_beat-1,934_beat,mušti,m ʊ ʃ tʲ ɪ,R V S T V,C V C C V
+lit-934_beat-2,934_beat,smogti,s m oː g tʲ ɪ,S R V T T V,C C V C C V
+lit-934_beat-3,934_beat,trenkti,t r ɛ nˑ k tʲ ɪ,T R V R T T V,C C V C C C V
+lit-935_kick-1,935_kick,mygti,m iː g tʲ ɪ,R V T T V,C V C C V
+lit-936_sting-1,936_sting,gelti,g eˑ lˠ tʲ ɪ,T V R T V,C V C C V
+lit-936_sting-2,936_sting,smeigti,s m ɛɪˑ g tʲ ɪ,S R V T T V,C C V C C V
+lit-937_shove-1,937_shove,stumti,s t ʊ m tʲ ɪ,S T V R T V,C C V C C V
+lit-937_shove-2,937_shove,pastumti,p ɐ s t ʊ m tʲ ɪ,T V S T V R T V,C V C C V C C V
+lit-938_steal-1,938_steal,vogti,ʋ oː g tʲ ɪ,R V T T V,C V C C V
+lit-939_disturb-1,939_disturb,trikdyti,t rʲ ɪ k d iː tʲ ɪ,T R V T T V T V,C C V C C V C V
+lit-940_bother-1,940_bother,apsunkinti,ɐ p s ʊ nˑ kʲ ɪ n tʲ ɪ,V T S V R T V R T V,V C C V C C V C C V
+lit-941_conceal-1,941_conceal,slėpti,s lˠ eː p tʲ ɪ,S R V T T V,C C V C C V
+lit-941_conceal-2,941_conceal,paslėpti,p ɐ s lˠ eː p tʲ ɪ,T V S R V T T V,C V C C V C C V
+lit-942_deceive-1,942_deceive,klaidinti,k lˠ ɐɪˑ dʲ ɪ n tʲ ɪ,T R V T V R T V,C C V C V C C V
+lit-943_cheat-1,943_cheat,apgauti,ɐ p g aˑ ʊ tʲ ɪ,V T T V V T V,V C C V V C V
+lit-944_kill-1,944_kill,žudyti,ʒ ʊ d iː tʲ ɪ,S V T V T V,C V C V C V
+lit-944_kill-2,944_kill,nužudyti,n ʊ ʒ ʊ d iː tʲ ɪ,R V S V T V T V,C V C V C V C V
+lit-945_dwell-1,945_dwell,gyventi,gʲ iː ʋ eˑ n tʲ ɪ,T V R V R T V,C V C V C C V
+lit-946_work-1,946_work,dirbti,dʲ ɪ r b tʲ ɪ,T V R T T V,C V C C C V
+lit-946_work-2,946_work,triūsti,t rʲ ɪ uː s tʲ ɪ,T R V V S T V,C C V V C C V
+lit-947_gather-1,947_gather,rinkti,rʲ ɪ nˑ k tʲ ɪ,R V R T T V,C V C C C V
+lit-948_pick-1,948_pick,skinti,s kʲ ɪ n tʲ ɪ,S T V R T V,C C V C C V
+lit-948_pick-2,948_pick,raškyti,r ɐ ʃ k iː tʲ ɪ,R V S T V T V,C V C C V C V
+lit-949_hunt-1,949_hunt,medžioti,m ɛ d ʒʲ ɪ oː tʲ ɪ,R V T S V V T V,C V C C V V C V
+lit-950_fish-1,950_fish,žvejoti,ʒ ʋ ɛ j oː tʲ ɪ,S R V R V T V,C C V C V C V
+lit-951_catch-1,951_catch,sučiupti,s ʊ tʃʲ ɪ ʊ p tʲ ɪ,S V X V V T T V,C V C V V C C V
+lit-952_herd-1,952_herd,ganyti,g ɐ n iː tʲ ɪ,T V R V T V,C V C V C V
+lit-953_drive-1,953_drive,ginti,gʲ ɪ nˑ tʲ ɪ,T V R T V,C V C C V
+lit-954_tieup-1,954_tieup,pririšti,p rʲ ɪ rʲ ɪ ʃ tʲ ɪ,T R V R V S T V,C C V C V C C V
+lit-955_feed-1,955_feed,šerti,ʃ eˑ r tʲ ɪ,S V R T V,C V C C V
+lit-956_milk-1,956_milk,melžti,m eˑ lˠ ʒ tʲ ɪ,R V R S T V,C V C C C V
+lit-957_chop-1,957_chop,kapoti,k ɐ p oː tʲ ɪ,T V T V T V,C V C V C V
+lit-958_water-1,958_water,lieti,lˠ i ə tʲ ɪ,R V V T V,C V V C V
+lit-958_water-2,958_water,laistyti,lˠ aˑ j ɪ s tʲ iː tʲ ɪ,R V R V S T V T V,C V C V C C V C V
+lit-959_ripen-1,959_ripen,nokti,n oː k tʲ ɪ,R V T T V,C V C C V
+lit-959_ripen-2,959_ripen,sirpti,sʲ ɪ rˑ p tʲ ɪ,S V R T T V,C V C C C V
+lit-960_cook-1,960_cook,ruošti,r uə ʃ tʲ ɪ,R V S T V,C V C C V
+lit-960_cook-2,960_cook,gaminti,g ɐ mʲ ɪ n tʲ ɪ,T V R V R T V,C V C V C C V
+lit-961_boil-1,961_boil,virti,ʋʲ ɪ r tʲ ɪ,R V R T V,C V C C V
+lit-961_boil-2,961_boil,virinti,ʋʲ ɪ rʲ ɪ n tʲ ɪ,R V R V R T V,C V C V C C V
+lit-962_bake-1,962_bake,kepti,k ɛ p tʲ ɪ,T V T T V,C V C C V
+lit-963_fry-1,963_fry,kepti,k ɛ p tʲ ɪ,T V T T V,C V C C V
+lit-963_fry-2,963_fry,kepinti,k ɛ pʲ ɪ n tʲ ɪ,T V T V R T V,C V C V C C V
+lit-964_stir-1,964_stir,maišyti,m ɐɪˑ ʃ iː tʲ ɪ,R V S V T V,C V C V C V
+lit-964_stir-2,964_stir,pamaišyti,p ɐ m ɐɪˑ ʃ iː tʲ ɪ,T V R V S V T V,C V C V C V C V
+lit-965_knit-1,965_knit,megzti,m ɛ g z tʲ ɪ,R V T S T V,C V C C C V
+lit-966_sew-1,966_sew,siūti,sʲ ɪ uː tʲ ɪ,S V V T V,C V V C V
+lit-967_dye-1,967_dye,dažyti,d ɐ ʒ iː tʲ ɪ,T V S V T V,C V C V C V
+lit-967_dye-2,967_dye,nudažyti,n ʊ d ɐ ʒ iː tʲ ɪ,R V T V S V T V,C V C V C V C V
+lit-968_clean-1,968_clean,valyti,ʋ ɐ lˠ iː tʲ ɪ,R V R V T V,C V C V C V
+lit-968_clean-2,968_clean,švarinti,ʃ ʋ a rʲ ɪ n tʲ ɪ,S R V R V R T V,C C V C V C C V
+lit-969_wash-1,969_wash,plauti,p lˠ aˑ ʊ tʲ ɪ,T R V V T V,C C V V C V
+lit-969_wash-2,969_wash,mazgoti,m ɐ z g oː tʲ ɪ,R V S T V T V,C V C C V C V
+lit-969_wash-3,969_wash,skalbti,s k ɐ lˠˑ b tʲ ɪ,S T V R T T V,C C V C C C V
+lit-970_wipe-1,970_wipe,nušluostyti,n ʊ ʃ lˠ u ə s tʲ iː tʲ ɪ,R V S R V V S T V T V,C V C C V V C C V C V
+lit-971_rinse-1,971_rinse,plauti,p lˠ aˑ ʊ tʲ ɪ,T R V V T V,C C V V C V
+lit-971_rinse-2,971_rinse,skalauti,s k ɐ lˠ aˑ ʊ tʲ ɪ,S T V R V V T V,C C V C V V C V
+lit-972_sweep-1,972_sweep,šluoti,ʃ lˠ u ə tʲ ɪ,S R V V T V,C C V V C V
+lit-973_sweep-1,973_sweep,šluoti,ʃ lˠ u ə tʲ ɪ,S R V V T V,C C V V C V
+lit-974_bath-1,974_bath,maudytis,m aˑ ʊ dʲ iː tʲ ɪ s,R V V T V T V S,C V V C V C V C
+lit-975_wash-1,975_wash,praustis,p r ɒʊˑ s tʲ ɪ s,T R V S T V S,C C V C C V C
+lit-976_takeoff-1,976_takeoff,numauti,n ʊ m aˑ ʊ tʲ ɪ,R V R V V T V,C V C V V C V
+lit-976_takeoff-2,976_takeoff,nuvilkti,n ʊ ʋʲ ɪ lˠˑ k tʲ ɪ,R V R V R T T V,C V C V C C C V
+lit-977_puton-1,977_puton,mauti,m aˑ ʊ tʲ ɪ,R V V T V,C V V C V
+lit-977_puton-2,977_puton,apsivilkti,ɐ p sʲ ɪ ʋʲ ɪ lˠˑ k tʲ ɪ,V T S V R V R T T V,V C C V C V C C C V
+lit-978_getdressed-1,978_getdressed,rengtis,r ɛ nˑ g tʲ ɪ s,R V R T T V S,C V C C C V C
+lit-978_getdressed-2,978_getdressed,apsirengti,ɐ p sʲ ɪ r ɛ nˑ g tʲ ɪ,V T S V R V R T T V,V C C V C V C C C V
+lit-979_comb-1,979_comb,šukuoti,ʃ ʊ k u ə tʲ ɪ,S V T V V T V,C V C V V C V
+lit-980_decorate-1,980_decorate,puošti,p uə ʃ tʲ ɪ,T V S T V,C V C C V
+lit-980_decorate-2,980_decorate,dabinti,d ɐ bʲ ɪ n tʲ ɪ,T V T V R T V,C V C V C C V
+lit-980_decorate-3,980_decorate,gražinti,g r a ʒʲ ɪ n tʲ ɪ,T R V S V R T V,C C V C V C C V
+lit-981_say-1,981_say,tarti,t ɐ rˑ tʲ ɪ,T V R T V,C V C C V
+lit-982_speak-1,982_speak,kalbėti,k ɐ lˠ b eː tʲ ɪ,T V R T V T V,C V C C V C V
+lit-983_talk-1,983_talk,šnekėti,ʃ n ɛ k eː tʲ ɪ,S R V T V T V,C C V C V C V
+lit-984_chat-1,984_chat,kalbėtis,k ɐ lˠ b eː tʲ ɪ s,T V R T V T V S,C V C C V C V C
+lit-984_chat-2,984_chat,šnekučiuotis,ʃ n ɛ k ʊ tʃʲ ɪ u ə tʲ ɪ s,S R V T V X V V V T V S,C C V C V C V V V C V C
+lit-985_ask-1,985_ask,klausti,k lˠ aˑ ʊ s tʲ ɪ,T R V V S T V,C C V V C C V
+lit-986_request-1,986_request,prašyti,p r ɐ ʃ iː tʲ ɪ,T R V S V T V,C C V C V C V
+lit-987_tell-1,987_tell,pasakoti,p a s ɐ k o tʲ ɪ,T V S V T V T V,C V C V C V C V
+lit-988_convey-1,988_convey,skelbti,s k eˑ lˠ b tʲ ɪ,S T V R T T V,C C V C C C V
+lit-988_convey-2,988_convey,pranešti,p r ɐ n ɛ ʃ tʲ ɪ,T R V R V S T V,C C V C V C C V
+lit-989_name-1,989_name,vadinti,ʋ ɐ dʲ ɪ n tʲ ɪ,R V T V R T V,C V C V C C V
+lit-989_name-2,989_name,vardyti,ʋ ɐ rˑ dʲ iː tʲ ɪ,R V R T V T V,C V C C V C V
+lit-990_call-1,990_call,šaukti,ʃ ɒʊˑ k tʲ ɪ,S V T T V,C V C C V
+lit-990_call-2,990_call,kviesti,k ʋ i ə s tʲ ɪ,T R V V S T V,C C V V C C V
+lit-991_brag-1,991_brag,girtis,gʲ ɪ r tʲ ɪ s,T V R T V S,C V C C V C
+lit-992_translate-1,992_translate,versti,ʋ ɛ rˑ s tʲ ɪ,R V R S T V,C V C C C V
+lit-992_translate-2,992_translate,išversti,ɪ ʃ ʋ ɛ rˑ s tʲ ɪ,V S R V R S T V,V C C V C C C V
+lit-993_think-1,993_think,galvoti,g ɐ lˠ ʋ oː tʲ ɪ,T V R R V T V,C V C C V C V
+lit-994_believe-1,994_believe,manyti,m ɐ n iː tʲ ɪ,R V R V T V,C V C V C V
+lit-994_believe-2,994_believe,tikėti,tʲ ɪ k eː tʲ ɪ,T V T V T V,C V C V C V
+lit-995_notice-1,995_notice,pamatyti,p ɐ m ɐ t iː tʲ ɪ,T V R V T V T V,C V C V C V C V
+lit-995_notice-2,995_notice,pastebėti,p ɐ s t ɛ b eː tʲ ɪ,T V S T V T V T V,C V C C V C V C V
+lit-996_recognize-1,996_recognize,pažinti,p ɐ ʒʲ ɪ n tʲ ɪ,T V S V R T V,C V C V C C V
+lit-996_recognize-2,996_recognize,atpažinti,ɐ t p ɐ ʒʲ ɪ n tʲ ɪ,V T T V S V R T V,V C C V C V C C V
+lit-997_grasp-1,997_grasp,suvokti,s ʊ ʋ oː k tʲ ɪ,S V R V T T V,C V C V C C V
+lit-998_understand-1,998_understand,suprasti,s ʊ p r ɑ s tʲ ɪ,S V T R V S T V,C V C C V C C V
+lit-999_learn-1,999_learn,mokytis,m oː kʲ iː tʲ ɪ s,R V T V T V S,C V C V C V C
+lit-1000_know-1,1000_know,žinoti,ʒʲ ɪ n oː tʲ ɪ,S V R V T V,C V C V C V
+lit-1001_remember-1,1001_remember,prisiminti,p rʲ ɪ sʲ ɪ mʲ ɪ nˑ tʲ ɪ,T R V S V R V R T V,C C V C V C V C C V
+lit-1002_forget-1,1002_forget,užmiršti,ʊ ʒ mʲ ɪ rˑ ʃ tʲ ɪ,V S R V R S T V,V C C V C C C V
+lit-1003_measure-1,1003_measure,matuoti,m ɐ t u ə tʲ ɪ,R V T V V T V,C V C V V C V
+lit-1004_count-1,1004_count,skaičiuoti,s k ɐɪˑ tʃʲ ɪ u ə tʲ ɪ,S T V X V V V T V,C C V C V V V C V
+lit-1005_calculate-1,1005_calculate,skaičiuoti,s k ɐɪˑ tʃʲ ɪ u ə tʲ ɪ,S T V X V V V T V,C C V C V V V C V
+lit-1006_read-1,1006_read,skaityti,s k ɐɪˑ t iː tʲ ɪ,S T V T V T V,C C V C V C V
+lit-1007_paint-1,1007_paint,tapyti,t ɐ p iː tʲ ɪ,T V T V T V,C V C V C V
+lit-1008_draw-1,1008_draw,piešti,p i ə ʃ tʲ ɪ,T V V S T V,C V V C C V
+lit-1008_draw-2,1008_draw,žymėti,ʒʲ iː m eː tʲ ɪ,S V R V T V,C V C V C V
+lit-1008_draw-3,1008_draw,braižyti,b r ɐɪˑ ʒ iː tʲ ɪ,T R V S V T V,C C V C V C V
+lit-1009_write-1,1009_write,rašyti,r ɐ ʃ iː tʲ ɪ,R V S V T V,C V C V C V
+lit-1010_own-1,1010_own,turėti,t ʊ r eː tʲ ɪ,T V R V T V,C V C V C V
+lit-1011_buy-1,1011_buy,pirkti,pʲ ɪ rˑ k tʲ ɪ,T V R T T V,C V C C C V
+lit-1012_sell-1,1012_sell,parduoti,p ɐ r d u ə tʲ ɪ,T V R T V V T V,C V C C V V C V
+lit-1013_payfor-1,1013_payfor,apmokėti,ɐ p m o k eː tʲ ɪ,V T R V T V T V,V C C V C V C V
+lit-1014_pay-1,1014_pay,mokėti,m o k eː tʲ ɪ,R V T V T V,C V C V C V
+lit-1015_rule-1,1015_rule,valdyti,ʋ ɐ lˠ d iː tʲ ɪ,R V R T V T V,C V C C V C V
+lit-1016_endure-1,1016_endure,kę̃sti,k æː s tʲ ɪ,T V S T V,C V C C V
+lit-1016_endure-2,1016_endure,pakelti,p ɐ k eˑ lˠ tʲ ɪ,T V T V R T V,C V C V C C V
+lit-1016_endure-3,1016_endure,iškę̃sti,ɪ ʃ k æː s tʲ ɪ,V S T V S T V,V C C V C C V
